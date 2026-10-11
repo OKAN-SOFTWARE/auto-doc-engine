@@ -3389,3 +3389,220 @@ STAGE_IDENTITY_DATE_2026_10_08
 - No month final, experiment credit, external provider result, benchmark or SCI validity claim by maintenance.
 - Revision principle: preserve prior owner sections and keep future correction as a new dated timepoint.
 - A2 outcome: RELATION_THROUGH_2026_10_10 / STAGE_IDENTITY_2026_10_04 / NO_STAGE_I.
+
+## A1 FULL-COVERAGE MAINTENANCE — 2026-10-11
+- Repository: `lostlight530/auto-doc-engine`
+- Domain: Auto Doc Frontier Research
+- Exact owner: `maintenance/frontier-research/LONGITUDINAL_INDEX.md`
+- Logical date: 2026-10-11 Asia/Shanghai
+- Coverage cutoff: 2026-10-10
+- Coverage window: 2026-10-01..2026-10-10
+- Exact base revision: `f06edd5a5fdda557f234fe414b02ef0210bb5bd0`
+- Previous A1 lineage: #109
+- Previous A2 lineage: #110
+- Producer role: HUMAN_AUTHORIZED_GOVERNANCE_MAINTENANCE
+- Native stage replay: NOT_PERFORMED
+- External research replay by maintenance: NOT_PERFORMED
+- Independent source credit added by maintenance: NONE
+- Scientific execution-window credit added by maintenance: NONE
+- Historical rewrite: NO
+- Month relation: OPEN
+- Natural-month final: NOT_DUE
+
+### Coverage and decision contract
+- Each date is reviewed against the canonical longitudinal owner and retained stage identity
+- REVIEWED does not imply MODIFIED
+- NO_NEW_STAGE_OBJECT is an admissible state for state-triggered cadence
+- NO_NEW_STAGE_OBJECT is not converted into scheduler failure or missing work
+- Relation-through metadata cannot manufacture a new stage identity
+- Engineering fixes remain engineering evidence unless independently admitted as research
+- Only the canonical LONGITUDINAL_INDEX owner is modified by this A1
+- Historical Stage A-H artifacts remain immutable point-in-time producer records
+- The next A2 must begin only after this A1 is merged and current main is freshly read
+
+#### 2026-10-01 full-coverage stage decision
+- Coverage identity: 2026-10-01 / Auto Doc Frontier Research / longitudinal owner
+- Owner review: REVIEWED
+- Stage-object observation: no new producer stage inferred from maintenance metadata
+- Retained stage registry identity: 2026-10-04 / Stage H
+- Relation-through semantics: governance recency only
+- Historical producer provenance: PRESERVED
+- Runtime/scientific execution by A1: NOT_PERFORMED
+- New independent-source credit: NONE
+- New Stage I synthetic credit: NONE
+- Earlier stage/audit assertions overwritten: NO
+- Decision completeness: COMPLETE_FOR_THIS_DATE_WITHIN_LONGITUDINAL_OWNER
+
+#### 2026-10-02 full-coverage stage decision
+- Coverage identity: 2026-10-02 / Auto Doc Frontier Research / longitudinal owner
+- Owner review: REVIEWED
+- Stage-object observation: no new producer stage inferred from maintenance metadata
+- Retained stage registry identity: 2026-10-04 / Stage H
+- Relation-through semantics: governance recency only
+- Historical producer provenance: PRESERVED
+- Runtime/scientific execution by A1: NOT_PERFORMED
+- New independent-source credit: NONE
+- New Stage I synthetic credit: NONE
+- Earlier stage/audit assertions overwritten: NO
+- Decision completeness: COMPLETE_FOR_THIS_DATE_WITHIN_LONGITUDINAL_OWNER
+
+#### 2026-10-03 full-coverage stage decision
+- Coverage identity: 2026-10-03 / Auto Doc Frontier Research / longitudinal owner
+- Owner review: REVIEWED
+- Stage-object observation: no new producer stage inferred from maintenance metadata
+- Retained stage registry identity: 2026-10-04 / Stage H
+- Relation-through semantics: governance recency only
+- Historical producer provenance: PRESERVED
+- Runtime/scientific execution by A1: NOT_PERFORMED
+- New independent-source credit: NONE
+- New Stage I synthetic credit: NONE
+- Earlier stage/audit assertions overwritten: NO
+- Decision completeness: COMPLETE_FOR_THIS_DATE_WITHIN_LONGITUDINAL_OWNER
+
+#### 2026-10-04 full-coverage stage decision
+- Coverage identity: 2026-10-04 / Auto Doc Frontier Research / longitudinal owner
+- Owner review: REVIEWED
+- Stage-object observation: no new producer stage inferred from maintenance metadata
+- Retained stage registry identity: 2026-10-04 / Stage H
+- Relation-through semantics: governance recency only
+- Historical producer provenance: PRESERVED
+- Runtime/scientific execution by A1: NOT_PERFORMED
+- New independent-source credit: NONE
+- New Stage I synthetic credit: NONE
+- Earlier stage/audit assertions overwritten: NO
+- Decision completeness: COMPLETE_FOR_THIS_DATE_WITHIN_LONGITUDINAL_OWNER
+
+#### 2026-10-05 full-coverage stage decision
+- Coverage identity: 2026-10-05 / Auto Doc Frontier Research / longitudinal owner
+- Owner review: REVIEWED
+- Stage-object observation: no new producer stage inferred from maintenance metadata
+- Retained stage registry identity: 2026-10-04 / Stage H
+- Relation-through semantics: governance recency only
+- Historical producer provenance: PRESERVED
+- Runtime/scientific execution by A1: NOT_PERFORMED
+- New independent-source credit: NONE
+- New Stage I synthetic credit: NONE
+- Earlier stage/audit assertions overwritten: NO
+- Decision completeness: COMPLETE_FOR_THIS_DATE_WITHIN_LONGITUDINAL_OWNER
+
+#### 2026-10-06 full-coverage stage decision
+- Coverage identity: 2026-10-06 / Auto Doc Frontier Research / longitudinal owner
+- Owner review: REVIEWED
+- Stage-object observation: no new producer stage inferred from maintenance metadata
+- Retained stage registry identity: 2026-10-04 / Stage H
+- Relation-through semantics: governance recency only
+- Historical producer provenance: PRESERVED
+- Runtime/scientific execution by A1: NOT_PERFORMED
+- New independent-source credit: NONE
+- New Stage I synthetic credit: NONE
+- Earlier stage/audit assertions overwritten: NO
+- Decision completeness: COMPLETE_FOR_THIS_DATE_WITHIN_LONGITUDINAL_OWNER
+
+#### 2026-10-07 full-coverage stage decision
+- Coverage identity: 2026-10-07 / Auto Doc Frontier Research / longitudinal owner
+- Owner review: REVIEWED
+- Stage-object observation: no new producer stage inferred from maintenance metadata
+- Retained stage registry identity: 2026-10-04 / Stage H
+- Relation-through semantics: governance recency only
+- Historical producer provenance: PRESERVED
+- Runtime/scientific execution by A1: NOT_PERFORMED
+- New independent-source credit: NONE
+- New Stage I synthetic credit: NONE
+- Earlier stage/audit assertions overwritten: NO
+- Decision completeness: COMPLETE_FOR_THIS_DATE_WITHIN_LONGITUDINAL_OWNER
+
+#### 2026-10-08 full-coverage stage decision
+- Coverage identity: 2026-10-08 / Auto Doc Frontier Research / longitudinal owner
+- Owner review: REVIEWED
+- Stage-object observation: no new producer stage inferred from maintenance metadata
+- Retained stage registry identity: 2026-10-04 / Stage H
+- Relation-through semantics: governance recency only
+- Historical producer provenance: PRESERVED
+- Runtime/scientific execution by A1: NOT_PERFORMED
+- New independent-source credit: NONE
+- New Stage I synthetic credit: NONE
+- Earlier stage/audit assertions overwritten: NO
+- Decision completeness: COMPLETE_FOR_THIS_DATE_WITHIN_LONGITUDINAL_OWNER
+
+#### 2026-10-09 full-coverage stage decision
+- Coverage identity: 2026-10-09 / Auto Doc Frontier Research / longitudinal owner
+- Owner review: REVIEWED
+- Stage-object observation: no new producer stage inferred from maintenance metadata
+- Retained stage registry identity: 2026-10-04 / Stage H
+- Relation-through semantics: governance recency only
+- Historical producer provenance: PRESERVED
+- Runtime/scientific execution by A1: NOT_PERFORMED
+- New independent-source credit: NONE
+- New Stage I synthetic credit: NONE
+- Earlier stage/audit assertions overwritten: NO
+- Decision completeness: COMPLETE_FOR_THIS_DATE_WITHIN_LONGITUDINAL_OWNER
+
+#### 2026-10-10 full-coverage stage decision
+- Coverage identity: 2026-10-10 / Auto Doc Frontier Research / longitudinal owner
+- Owner review: REVIEWED
+- Stage-object observation: no new producer stage inferred from maintenance metadata
+- Retained stage registry identity: 2026-10-04 / Stage H
+- Relation-through semantics: governance recency only
+- Historical producer provenance: PRESERVED
+- Runtime/scientific execution by A1: NOT_PERFORMED
+- New independent-source credit: NONE
+- New Stage I synthetic credit: NONE
+- Earlier stage/audit assertions overwritten: NO
+- Decision completeness: COMPLETE_FOR_THIS_DATE_WITHIN_LONGITUDINAL_OWNER
+
+### 2026-10-10 cutoff-specific evidence adjudication
+- Cutoff fact 1: Current retained producer stage remains Stage H with registry identity date 2026-10-04
+- Cutoff fact 2: No Stage I research object is observed through the 2026-10-10 cutoff
+- Cutoff fact 3: The current maintenance relation-through 2026-10-10 is index/governance currency and not a new research-stage identity
+- Cutoff fact 4: The leaf-file repository-boundary repair is an engineering maintenance fact, not a scientific stage or external research result
+- Cutoff fact 5: The repair prevents misleading out-of-repository evidence traversal but does not establish a live exploitation event
+- Cutoff fact 6: Natural October stage/month relation remains OPEN; missing new stage object is not scheduler failure
+- Cutoff decision: RETAIN / NO_NEW_STAGE_OBJECT
+- Stage registry identity changed by A1: NO
+- Relation-through cutoff reviewed: YES
+- New external research required by A1: NO
+- New runtime validation claimed by A1: NO
+
+### Post-cutoff visibility boundary
+- Post-cutoff item 1: No additional native Stage I object was observed after the 2026-10-10 cutoff at the A1 branch cut
+- Post-cutoff item 2: A2 may advance relation-through to 2026-10-11 only after A1 merges and fresh main is read
+- Post-cutoff item 3: A2 must preserve Stage identity 2026-10-04 unless a real producer-stage object is observed
+- 2026-10-11 relation is outside the A1 producer cutoff
+- Post-cutoff state may be consumed only by A2 after this A1 is merged
+
+### Domain evidence boundaries rechecked
+- Boundary 01: stage identity != relation-through date
+- Boundary 02: NO_NEW_STAGE_OBJECT != missing scheduled task
+- Boundary 03: state-triggered cadence != daily cadence
+- Boundary 04: engineering repair != research stage
+- Boundary 05: regression test != scientific validation
+- Boundary 06: generated document != executed runtime
+- Boundary 07: index update != producer research
+- Boundary 08: current owner relation != new source publication
+- Boundary 09: configured scan root inside repo != every descendant resolved path inside repo
+- Boundary 10: rejected external-resolved leaf != local repository evidence
+- Boundary 11: symlink confinement fix != observed attack incident
+- Boundary 12: historical Stage A-H != synthetic Stage I
+- Boundary 13: D30 retrospective audit != new stage
+- Boundary 14: Open Research relation != producer execution
+- Boundary 15: maintenance A1 != maintenance A2
+- Boundary 16: maintenance relation != month final
+- Boundary 17: same owner fact repeated != independent corroboration
+- Boundary 18: current main completeness != historical execution completeness
+- Boundary 19: later fix != earlier proof
+- Boundary 20: correction stays append-only and time-scoped
+
+### A1 decision summary
+- Reviewed dated checkpoints: 10
+- Cutoff: 2026-10-10
+- Canonical owner modified: LONGITUDINAL_INDEX only
+- Historical stage files rewritten: 0
+- New Stage I producer artifacts: 0
+- New scientific executions: 0
+- New independent-source credit: 0
+- New month-final claim: 0
+- Engineering fixes promoted to research-stage evidence: 0
+- Overall A1 disposition: COVERAGE_COMPLETE / STAGE_IDENTITY_PRESERVED / RELATION_BOUNDARY_PRESERVED
+- Merge prerequisite for A2: YES
+- A2 may advance relation-through only after fresh-read merged main
+- A1 status: READY_FOR_MAINTAINER_REVIEW
