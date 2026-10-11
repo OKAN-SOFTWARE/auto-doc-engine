@@ -3606,3 +3606,194 @@ STAGE_IDENTITY_DATE_2026_10_08
 - Merge prerequisite for A2: YES
 - A2 may advance relation-through only after fresh-read merged main
 - A1 status: READY_FOR_MAINTAINER_REVIEW
+
+## A2 CURRENT-MONTH RELATION — 2026-10-11
+- Repository: `lostlight530/auto-doc-engine`
+- Domain: Auto Doc Frontier Research
+- Exact owner: `maintenance/frontier-research/LONGITUDINAL_INDEX.md`
+- Logical N: 2026-10-11 Asia/Shanghai
+- Relation window: 2026-10-01..2026-10-11
+- Fresh post-A1 base: `99f0fd3917a68266ac4c34a54e0dd9be32e2deb8`
+- Required predecessor A1: #113 / MERGED / CONSUMED
+- Open PR state at A2 branch cut: 0 observed
+- Producer role: HUMAN_AUTHORIZED_GOVERNANCE_RELATION
+- Historical rewrite: NO
+- Native stage execution by A2: NOT_PERFORMED
+- External research by A2: NOT_PERFORMED
+- New independent-source credit by A2: NONE
+- Month relation: OPEN
+- Natural-month final: NOT_DUE
+
+### Dependency and relation contract
+- A2 starts only from post-A1 current main
+- A1 supplies MonthStart→N-1 full coverage and is consumed rather than repeated as new research
+- N-day relation can advance without a new producer stage in state-triggered cadence
+- Missing new stage object is not classified as failure
+- Stage identity remains bound to actual producer artifacts, not governance timestamps
+- Engineering changes remain engineering evidence unless a research contract separately admits them
+- Maintenance updates only the canonical LONGITUDINAL_INDEX owner
+- No synthetic Stage I or placeholder research artifact is created
+- Future correction must append a new timepoint
+
+#### 2026-10-01 inherited A1 stage relation
+- A1 coverage source: merged predecessor #113
+- Historical owner checkpoint: CONSUMED
+- Historical Stage A-H identity/provenance: PRESERVED
+- Prior relation-through semantics: PRESERVED
+- Native scientific execution by A2: NOT_PERFORMED
+- New producer-stage credit: NONE
+- New independent-source credit: NONE
+- 10/11 relation used to rewrite this date: NO
+- Relation decision: RETAIN_AS_POINT_IN_TIME_HISTORY
+
+#### 2026-10-02 inherited A1 stage relation
+- A1 coverage source: merged predecessor #113
+- Historical owner checkpoint: CONSUMED
+- Historical Stage A-H identity/provenance: PRESERVED
+- Prior relation-through semantics: PRESERVED
+- Native scientific execution by A2: NOT_PERFORMED
+- New producer-stage credit: NONE
+- New independent-source credit: NONE
+- 10/11 relation used to rewrite this date: NO
+- Relation decision: RETAIN_AS_POINT_IN_TIME_HISTORY
+
+#### 2026-10-03 inherited A1 stage relation
+- A1 coverage source: merged predecessor #113
+- Historical owner checkpoint: CONSUMED
+- Historical Stage A-H identity/provenance: PRESERVED
+- Prior relation-through semantics: PRESERVED
+- Native scientific execution by A2: NOT_PERFORMED
+- New producer-stage credit: NONE
+- New independent-source credit: NONE
+- 10/11 relation used to rewrite this date: NO
+- Relation decision: RETAIN_AS_POINT_IN_TIME_HISTORY
+
+#### 2026-10-04 inherited A1 stage relation
+- A1 coverage source: merged predecessor #113
+- Historical owner checkpoint: CONSUMED
+- Historical Stage A-H identity/provenance: PRESERVED
+- Prior relation-through semantics: PRESERVED
+- Native scientific execution by A2: NOT_PERFORMED
+- New producer-stage credit: NONE
+- New independent-source credit: NONE
+- 10/11 relation used to rewrite this date: NO
+- Relation decision: RETAIN_AS_POINT_IN_TIME_HISTORY
+
+#### 2026-10-05 inherited A1 stage relation
+- A1 coverage source: merged predecessor #113
+- Historical owner checkpoint: CONSUMED
+- Historical Stage A-H identity/provenance: PRESERVED
+- Prior relation-through semantics: PRESERVED
+- Native scientific execution by A2: NOT_PERFORMED
+- New producer-stage credit: NONE
+- New independent-source credit: NONE
+- 10/11 relation used to rewrite this date: NO
+- Relation decision: RETAIN_AS_POINT_IN_TIME_HISTORY
+
+#### 2026-10-06 inherited A1 stage relation
+- A1 coverage source: merged predecessor #113
+- Historical owner checkpoint: CONSUMED
+- Historical Stage A-H identity/provenance: PRESERVED
+- Prior relation-through semantics: PRESERVED
+- Native scientific execution by A2: NOT_PERFORMED
+- New producer-stage credit: NONE
+- New independent-source credit: NONE
+- 10/11 relation used to rewrite this date: NO
+- Relation decision: RETAIN_AS_POINT_IN_TIME_HISTORY
+
+#### 2026-10-07 inherited A1 stage relation
+- A1 coverage source: merged predecessor #113
+- Historical owner checkpoint: CONSUMED
+- Historical Stage A-H identity/provenance: PRESERVED
+- Prior relation-through semantics: PRESERVED
+- Native scientific execution by A2: NOT_PERFORMED
+- New producer-stage credit: NONE
+- New independent-source credit: NONE
+- 10/11 relation used to rewrite this date: NO
+- Relation decision: RETAIN_AS_POINT_IN_TIME_HISTORY
+
+#### 2026-10-08 inherited A1 stage relation
+- A1 coverage source: merged predecessor #113
+- Historical owner checkpoint: CONSUMED
+- Historical Stage A-H identity/provenance: PRESERVED
+- Prior relation-through semantics: PRESERVED
+- Native scientific execution by A2: NOT_PERFORMED
+- New producer-stage credit: NONE
+- New independent-source credit: NONE
+- 10/11 relation used to rewrite this date: NO
+- Relation decision: RETAIN_AS_POINT_IN_TIME_HISTORY
+
+#### 2026-10-09 inherited A1 stage relation
+- A1 coverage source: merged predecessor #113
+- Historical owner checkpoint: CONSUMED
+- Historical Stage A-H identity/provenance: PRESERVED
+- Prior relation-through semantics: PRESERVED
+- Native scientific execution by A2: NOT_PERFORMED
+- New producer-stage credit: NONE
+- New independent-source credit: NONE
+- 10/11 relation used to rewrite this date: NO
+- Relation decision: RETAIN_AS_POINT_IN_TIME_HISTORY
+
+#### 2026-10-10 inherited A1 stage relation
+- A1 coverage source: merged predecessor #113
+- Historical owner checkpoint: CONSUMED
+- Historical Stage A-H identity/provenance: PRESERVED
+- Prior relation-through semantics: PRESERVED
+- Native scientific execution by A2: NOT_PERFORMED
+- New producer-stage credit: NONE
+- New independent-source credit: NONE
+- 10/11 relation used to rewrite this date: NO
+- Relation decision: RETAIN_AS_POINT_IN_TIME_HISTORY
+
+### 2026-10-11 current-main integration
+- Current fact 01: A1 #113 is merged and provides complete 2026-10-01..2026-10-10 coverage on the canonical LONGITUDINAL_INDEX owner
+- Current fact 02: Fresh post-A1 current main shows no new native Stage I producer artifact at the A2 branch cut
+- Current fact 03: Current retained research-stage identity therefore remains Stage H / 2026-10-04
+- Current fact 04: Relation-through may advance to 2026-10-11 because current repository state was freshly reviewed through N
+- Current fact 05: Relation-through advancement is governance/index currency and does not create a research stage
+- Current fact 06: The previously merged leaf-file repository-boundary repair remains an engineering fact and is not promoted to research-stage or live incident evidence
+- Current fact 07: No compiler/runtime/scientific execution is performed by this A2 relation update
+- Current fact 08: No placeholder STAGE_SYNTHESIS, RESEARCH_REVIEW, STAGE_HANDOFF, or Stage I artifact is fabricated
+- Current fact 09: No independent source or research execution window is added by absence of a new stage object
+- Current fact 10: October relation remains OPEN and natural-month final is NOT_DUE
+- Current-day stage decision: NO_NEW_STAGE_OBJECT
+- Current-day relation decision: ADVANCE_RELATION_THROUGH_2026_10_11
+- Stage registry identity changed: NO
+- Synthetic producer artifact created: NO
+- Runtime/scientific execution credit added: NONE
+
+### Evidence boundaries rechecked
+- Boundary 01: Stage H identity != 10/11 relation-through
+- Boundary 02: NO_NEW_STAGE_OBJECT != missing scheduled task
+- Boundary 03: NO_NEW_STAGE_OBJECT != scheduler failure
+- Boundary 04: state-triggered cadence != daily cadence
+- Boundary 05: relation-through != producer stage date
+- Boundary 06: index currency != new research
+- Boundary 07: engineering repair != scientific result
+- Boundary 08: regression test != research-stage execution
+- Boundary 09: leaf confinement != live exploit observation
+- Boundary 10: current owner completeness != producer-stage completeness
+- Boundary 11: historical Stage A-H != inferred Stage I
+- Boundary 12: D30 retrospective evidence != new stage
+- Boundary 13: Open Research routing != producer execution
+- Boundary 14: maintenance A1 != A2 relation
+- Boundary 15: maintenance A2 != native stage
+- Boundary 16: same owner fact repetition != independent corroboration
+- Boundary 17: no new stage != negative world claim
+- Boundary 18: monthly OPEN != month final
+- Boundary 19: current main != earlier task-time execution
+- Boundary 20: correction remains append-only and forward
+
+### A2 relation summary
+- Relation-through: 2026-10-11
+- A1 prerequisite: SATISFIED
+- Retained producer stage: Stage H / 2026-10-04
+- New Stage I observed: NO
+- New producer research credit: NONE
+- New independent-source credit: NONE
+- Historical stage artifacts rewritten: 0
+- Engineering facts promoted to research stage: 0
+- Natural-month final formed: NO
+- Current owner status: RELATION_THROUGH_2026_10_11 / STAGE_IDENTITY_2026_10_04 / NO_STAGE_I
+- Future A1 must fresh-read this merged main
+- A2 status: READY_FOR_MAINTAINER_REVIEW
