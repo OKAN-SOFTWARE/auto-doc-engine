@@ -4151,3 +4151,191 @@ STAGE_IDENTITY_DATE_2026_10_08
 - Monthly final seal: 0.
 - Relation-through advanced to: 2026-10-12.
 - Status: A2_RELATION_COMPLETE / MONTH_OPEN / HISTORY_PRESERVED
+
+## A1 FULL OCTOBER MAINTENANCE — 2026-10-13
+- Repository: lostlight530/auto-doc-engine
+- Domain: Auto Doc / Stage-state Research
+- Canonical owner: maintenance/frontier-research/LONGITUDINAL_INDEX.md
+- Logical date: 2026-10-13 Asia/Shanghai
+- Coverage window: 2026-10-01..2026-10-12
+- Cutoff: N-1 = 2026-10-12
+- Exact current-main base: 478736e94fdf2a42a05f01b35d6a8401cb4de861
+- Producer replay: NOT_PERFORMED
+- Historical rewrite: NO
+- Month state: OPEN
+- Natural-month final: NOT_DUE
+- 2026-10-13 producer visibility: POST_CUTOFF_ONLY
+
+### Month-to-date coverage ledger
+
+#### 2026-10-01
+- Coverage date: 2026-10-01
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-02
+- Coverage date: 2026-10-02
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-03
+- Coverage date: 2026-10-03
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-04
+- Coverage date: 2026-10-04
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-05
+- Coverage date: 2026-10-05
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-06
+- Coverage date: 2026-10-06
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-07
+- Coverage date: 2026-10-07
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-08
+- Coverage date: 2026-10-08
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-09
+- Coverage date: 2026-10-09
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-10
+- Coverage date: 2026-10-10
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-11
+- Coverage date: 2026-10-11
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+#### 2026-10-12
+- Coverage date: 2026-10-12
+- Native / stage / research state: REVIEWED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state: PRESERVED
+- Weekly / stage relation: RETAINED_WITHOUT_BACKDATING
+- Monthly relation: OPEN / NOT_FINAL
+- Independent-source upgrade by A1: NONE
+- Runtime/scientific replay by A1: NOT_PERFORMED
+- Decision class: NO_HISTORICAL_REWRITE / RELATION_REVIEWED
+
+### Repository-specific adjudication
+- F01: Latest observed native scientific stage remains STAGE_H with registry date 2026-10-04
+- F02: No STAGE_I producer object is observed through the 2026-10-12 A1 cutoff
+- F03: Absence of a new stage is not scheduler failure
+- F04: Prior A2 relation-through reached 2026-10-12 while stage identity remained unchanged
+- F05: Engineering repair #108 concerns repository scan scope and leaf-symlink confinement rather than scientific-stage advancement
+- F06: Isolated engineering reproduction is not a full repository scientific test suite
+- F07: GENERATED_DOCUMENT != EXECUTED_RUNTIME
+- F08: TEMPORAL_METADATA_CORRECTNESS != SCIENTIFIC_VALIDITY
+- F09: Governance relation-through does not create producer-stage identity
+- F10: No scientific runtime or external research execution is performed by A1
+- F11: October longitudinal owner remains OPEN
+- F12: Historical Stage A-H chronology remains preserved
+
+### Evidence boundaries
+- Native research artifact != monthly governance maintenance
+- Paper evidence != conceptual mapping
+- Conceptual mapping != implementation
+- Implementation != validation
+- Same-date artifacts != shared runtime/store unless proven
+- Test pass != exhaustive system health
+- Engineering repair != scientific-stage advancement
+- Relation-through != stage identity
+- Current path != historical execution
+- Correction != history rewrite
+- Repetition != independent verification
+- A1 review != producer rerun
+- No Stage I placeholder is created
+- October month remains OPEN
+
+### A1 disposition
+- Covered dates: 12
+- Coverage completeness: COMPLETE_FOR_2026-10-01_THROUGH_2026-10-12
+- Historical artifacts rewritten: 0
+- Native/scientific runs replayed: 0
+- Independent-source credits added: 0
+- Unsupported implementation/runtime claims added: 0
+- 2026-10-13 state admitted into A1 cutoff: NO
+- Ready condition: MERGE_A1_THEN_FRESH_READ_MAIN
