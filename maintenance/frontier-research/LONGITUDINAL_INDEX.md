@@ -4339,3 +4339,198 @@ STAGE_IDENTITY_DATE_2026_10_08
 - Unsupported implementation/runtime claims added: 0
 - 2026-10-13 state admitted into A1 cutoff: NO
 - Ready condition: MERGE_A1_THEN_FRESH_READ_MAIN
+
+## A2 CURRENT-MAIN OCTOBER MAINTENANCE — 2026-10-13
+- Repository: lostlight530/auto-doc-engine
+- Domain: Auto Doc / Stage-state Research
+- Canonical owner: maintenance/frontier-research/LONGITUDINAL_INDEX.md
+- Logical date: 2026-10-13 Asia/Shanghai
+- Coverage window: 2026-10-01..2026-10-13
+- Relation-through: N = 2026-10-13
+- Fresh A1-merged base main: 1a87fcd0599e25cb051101f6ac35db8144f7c02a
+- A1 consumed: YES
+- 2026-10-13 native/stage state consumed where present: YES
+- Producer replay by A2: NOT_PERFORMED
+- Historical rewrite: NO
+- Month state: OPEN
+- Natural-month final: NOT_DUE
+
+### Full October relational ledger
+
+#### 2026-10-01
+- Relation date: 2026-10-01
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-02
+- Relation date: 2026-10-02
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-03
+- Relation date: 2026-10-03
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-04
+- Relation date: 2026-10-04
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-05
+- Relation date: 2026-10-05
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-06
+- Relation date: 2026-10-06
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-07
+- Relation date: 2026-10-07
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-08
+- Relation date: 2026-10-08
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-09
+- Relation date: 2026-10-09
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-10
+- Relation date: 2026-10-10
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-11
+- Relation date: 2026-10-11
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-12
+- Relation date: 2026-10-12
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+#### 2026-10-13
+- Relation date: 2026-10-13
+- Producer / stage / research object: RETAINED_AS_POINT_IN_TIME_EVIDENCE
+- Later current state used as original execution proof: NO
+- Negative / unknown / blocked state overwritten: NO
+- Stage/weekly promotion without producer evidence: NO
+- Monthly final promotion: NO
+- Independent-source credit created by A2: NONE
+- Runtime/scientific replay by A2: NOT_PERFORMED
+- Decision: RELATION_REVIEWED / NO_BACKDATE
+
+### 2026-10-13 current-main adjudication
+- N1: No 2026-10-13 native Stage I producer object is observed in the longitudinal owner
+- N2: Latest observed native scientific stage remains STAGE_H with registry date 2026-10-04
+- N3: A1 #117 merged and reviewed 2026-10-01..2026-10-12 without creating synthetic stage identity
+- N4: Relation-through may advance to 2026-10-13 while stage identity remains unchanged
+- N5: Engineering repair #108 remains engineering scope evidence, not scientific-stage evidence
+- N6: GENERATED_DOCUMENT != EXECUTED_RUNTIME and temporal metadata correctness != scientific validity
+- N7: October longitudinal owner remains OPEN and natural-month final is NOT_DUE
+
+### Cross-layer rules applied
+- Paper != mapping != implementation != validation
+- Same-date artifacts != shared persistent store unless proven
+- Test pass != exhaustive system health
+- Stage absence != scheduler failure
+- Relation-through != stage identity
+- Engineering repair != scientific validation
+- Current path != historical execution
+- Missing / blocked / unknown remain legal states
+- Correction moves forward without rewriting producer history
+- A2 relation maintenance != native producer rerun
+- No synthetic stage identity is created
+- No independent-source credit is manufactured
+- October remains OPEN
+
+### A2 evidence ledger
+- 2026-10-01..2026-10-12 consumed from merged A1
+- 2026-10-13 native/stage state consumed where present
+- Historical rewrites: 0
+- Native/scientific runs replayed: 0
+- Independent sources newly credited: 0
+- Unsupported implementation/runtime claims added: 0
+- Monthly final seal: 0
+- Relation-through advanced to: 2026-10-13
+- Status: A2_RELATION_COMPLETE / MONTH_OPEN / HISTORY_PRESERVED
