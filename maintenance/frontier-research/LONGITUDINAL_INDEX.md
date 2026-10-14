@@ -4873,3 +4873,167 @@ STAGE_IDENTITY_DATE_2026_10_08
 - Monthly final seal: 0
 - Relation-through: 2026-10-13
 - Status: FINAL_A2_COMPLETE / MONTH_OPEN / HISTORY_PRESERVED
+
+## A1 2026-10-14 Stage-H source-level audit
+- Repository: lostlight530/auto-doc-engine
+- Base main SHA: f4de6d3486101b23889932f2446d67cc9097a939
+- N-1 cutoff: 2026-10-01..2026-10-13
+- GitHub source files fully read: 13
+- Existing Stage-H 2025-Q4 identity remains canonical; no 2026 Stage-I inferred
+- Stage synthesis, evidence chart, review and handoff retain distinct roles
+- Source provenance and scientific validity are different evidence layers
+- No new research, local execution, independent source, scientific reproduction or release credit
+- This maintains the existing longitudinal owner; no Stage research files rewritten
+
+### maintenance/frontier-research/stage-h-2025-q4/CONTRIBUTOR_STATEMENT.md
+- Native content SHA: 170e6322fd5c544ea5c6d44401a019f764a69b27
+- Lines read: 8
+- Recorded headings: 1
+- Heading 1: # Contributor Statement — Stage H / 2025-Q4
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/EVIDENCE_CHART.md
+- Native content SHA: ab31a909f5bd4df72cfc2ece7b419d03739aa757
+- Lines read: 10
+- Recorded headings: 1
+- Heading 1: # Stage H Evidence Chart — 2025-Q4
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md
+- Native content SHA: eba05037fdda0a36f9bb5ae4e1a80ee88bb140d3
+- Lines read: 31
+- Recorded headings: 5
+- Heading 1: # H1 — CycloneDX 1.7: Citation, Provenance, and BOM Relationship Identity
+- Heading 2: ## Source identity
+- Heading 3: ## Frontier observation
+- Heading 4: ## Boundary
+- Heading 5: ## Repository interpretation
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md
+- Native content SHA: ee01cde19cf95eb5cad564d1a35a4c06ef058c99
+- Lines read: 31
+- Recorded headings: 5
+- Heading 1: # H2 — SLSA 1.2: Source Track and Policy-Verifiable Provenance
+- Heading 2: ## Source identity
+- Heading 3: ## Frontier observation
+- Heading 4: ## Boundary
+- Heading 5: ## Repository interpretation
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md
+- Native content SHA: c6924b9a39410041ff102c8d6d60d67b83c2bc7f
+- Lines read: 33
+- Recorded headings: 5
+- Heading 1: # H3 — Pandoc 3.8.3: Broader Input Surface and Transformation Identity
+- Heading 2: ## Source identity
+- Heading 3: ## Frontier observation
+- Heading 4: ## Boundary
+- Heading 5: ## Repository interpretation
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_10_RECONSTRUCTION.md
+- Native content SHA: 05f7e460d180036a5b1a257fb02b1b493f8e1acf
+- Lines read: 14
+- Recorded headings: 5
+- Heading 1: # October 2025 Reconstruction — Stage H
+- Heading 2: ## Selected event
+- Heading 3: ## Narrative
+- Heading 4: ## Boundary
+- Heading 5: ## Decision
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_11_RECONSTRUCTION.md
+- Native content SHA: 0b7b25d20dac479e483ad6e4582afac147efcaac
+- Lines read: 14
+- Recorded headings: 5
+- Heading 1: # November 2025 Reconstruction — Stage H
+- Heading 2: ## Selected event
+- Heading 3: ## Narrative
+- Heading 4: ## Boundary
+- Heading 5: ## Decision
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_12_RECONSTRUCTION.md
+- Native content SHA: 2f157716ee454abf7c6632a9af9287ebb29e1fac
+- Lines read: 14
+- Recorded headings: 5
+- Heading 1: # December 2025 Reconstruction — Stage H
+- Heading 2: ## Selected event
+- Heading 3: ## Narrative
+- Heading 4: ## Boundary
+- Heading 5: ## Decision
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/RESEARCH_REVIEW.md
+- Native content SHA: a2cc701151621459b83bc24f577703ac11a8750f
+- Lines read: 19
+- Recorded headings: 5
+- Heading 1: # Stage H Research Review — 2025-Q4
+- Heading 2: ## Review scope
+- Heading 3: ## Findings
+- Heading 4: ## Counterevidence / limits
+- Heading 5: ## Review result
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/SOURCE_OBJECT_REGISTER.md
+- Native content SHA: 9718b9e8323d2d0cb86f48f7ea32d1dcdaaa6cdc
+- Lines read: 11
+- Recorded headings: 2
+- Heading 1: # Stage H Source / Object Register — 2025-Q4
+- Heading 2: ## Register rule
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/STAGE_BRIEF.md
+- Native content SHA: 971e2bc61ed9d18d7fe8b1c351ece8a631609a9f
+- Lines read: 36
+- Recorded headings: 6
+- Heading 1: # Frontier Research Stage Brief — Stage H / 2025-Q4
+- Heading 2: ## Identity
+- Heading 3: ## Rationale
+- Heading 4: ## Research questions
+- Heading 5: ## Selected objects
+- Heading 6: ## Hard boundaries
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/STAGE_HANDOFF.md
+- Native content SHA: a55c074cae8f0c8a3528c0d30f7985cf4ce82d5b
+- Lines read: 15
+- Recorded headings: 4
+- Heading 1: # Stage H Handoff — 2025-Q4
+- Heading 2: ## Preserved findings
+- Heading 3: ## Open questions for the next stage
+- Heading 4: ## Handoff boundary
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### maintenance/frontier-research/stage-h-2025-q4/STAGE_SYNTHESIS.md
+- Native content SHA: b2abae7cfbbd513e93ad0dbcb013547d5e7b9d82
+- Lines read: 42
+- Recorded headings: 6
+- Heading 1: # Frontier Research Stage Synthesis — Stage H / 2025-Q4
+- Heading 2: ## Identity
+- Heading 3: ## Quarter narrative
+- Heading 4: ## Previous-stage delta
+- Heading 5: ## Current repository assessment
+- Heading 6: ## Conclusion
+- Explicit evidence markers in this source: NONE_OF_CHECKED_MARKERS
+- Assessment: Stage-H historical research evidence only; not new Stage-I or system runtime validation
+
+### A1 decision
+- Original Stage artifacts modified: 0
+- Owner updated: append-only per-source audit
+- New Stage I execution: NOT_OBSERVED
+- October final: NOT_DUE
+- Gate: merge all ten A1 before any A2
