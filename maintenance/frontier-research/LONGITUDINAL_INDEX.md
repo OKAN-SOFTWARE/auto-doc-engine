@@ -5037,3 +5037,189 @@ STAGE_IDENTITY_DATE_2026_10_08
 - New Stage I execution: NOT_OBSERVED
 - October final: NOT_DUE
 - Gate: merge all ten A1 before any A2
+
+## A2 2026-10-14 current-month Stage-H cross-object reconciliation
+- Repository: lostlight530/auto-doc-engine
+- Fresh A1 merged main: 7ad80b35dbbbddf797aa55b2affb41737d834c86
+- A1 owner blob incorporated: a51767723f530f801b7c65c1e2be0a516f73a1a1
+- Coverage 2026-10-01..2026-10-14 (inclusive N); Stage-H scientific window remains 2025-Q4
+- Stage-H original source blobs read again on A1-merged main: 13
+- Stage I newly produced by 2026-10-14: NOT_OBSERVED_IN_MAIN_TREE
+- Registry index, source identities, evidence charts, retrospective months, technical questions, synthesis, review and handoff have distinct authority
+- October relation-through advances but cannot rename source period, manufacture new Stage, or convert published text to runtime validation
+- The A1 review is consumed as review evidence, not treated as a native Stage task
+- No new scientific execution, source corroboration, renderer/production verification or deployment claim
+
+### A2 evidence linkage: CONTRIBUTOR_STATEMENT.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/CONTRIBUTOR_STATEMENT.md
+- Stage-H Git SHA: 170e6322fd5c544ea5c6d44401a019f764a69b27
+- Evidence role: ATTRIBUTION
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # Contributor Statement — Stage H / 2025-Q4
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: EVIDENCE_CHART.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/EVIDENCE_CHART.md
+- Stage-H Git SHA: ab31a909f5bd4df72cfc2ece7b419d03739aa757
+- Evidence role: CROSS_EVIDENCE_MAP
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # Stage H Evidence Chart — 2025-Q4
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md
+- Stage-H Git SHA: eba05037fdda0a36f9bb5ae4e1a80ee88bb140d3
+- Evidence role: FOCUSED_RESEARCH
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # H1 — CycloneDX 1.7: Citation, Provenance, and BOM Relationship Identity
+- Retained heading 2: ## Source identity
+- Retained heading 3: ## Frontier observation
+- Retained heading 4: ## Boundary
+- Retained heading 5: ## Repository interpretation
+- Actual record claim 1: - Release date: 2025-10-21
+- Actual record claim 2: - Primary source: https://cyclonedx.org/news/cyclonedx-v1.7-released/
+- Actual record claim 3: - Specification overview: https://cyclonedx.org/specification/overview/
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md
+- Stage-H Git SHA: ee01cde19cf95eb5cad564d1a35a4c06ef058c99
+- Evidence role: FOCUSED_RESEARCH
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # H2 — SLSA 1.2: Source Track and Policy-Verifiable Provenance
+- Retained heading 2: ## Source identity
+- Retained heading 3: ## Frontier observation
+- Retained heading 4: ## Boundary
+- Retained heading 5: ## Repository interpretation
+- Actual record claim 1: - Release date: 2025-11-24
+- Actual record claim 2: - Primary source: https://slsa.dev/blog/2025/11/announce-slsa-v1.2
+- Actual record claim 3: - SLSA track/level != source truth
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md
+- Stage-H Git SHA: c6924b9a39410041ff102c8d6d60d67b83c2bc7f
+- Evidence role: FOCUSED_RESEARCH
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # H3 — Pandoc 3.8.3: Broader Input Surface and Transformation Identity
+- Retained heading 2: ## Source identity
+- Retained heading 3: ## Frontier observation
+- Retained heading 4: ## Boundary
+- Retained heading 5: ## Repository interpretation
+- Actual record claim 1: - Release date: 2025-12-01
+- Actual record claim 2: - Primary source: https://pandoc.org/releases.html
+- Actual record claim 3: - readable input != faithful interpretation
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: MONTH_2025_10_RECONSTRUCTION.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_10_RECONSTRUCTION.md
+- Stage-H Git SHA: 05f7e460d180036a5b1a257fb02b1b493f8e1acf
+- Evidence role: RETROSPECTIVE_MONTH
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # October 2025 Reconstruction — Stage H
+- Retained heading 2: ## Selected event
+- Retained heading 3: ## Narrative
+- Retained heading 4: ## Boundary
+- Retained heading 5: ## Decision
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: MONTH_2025_11_RECONSTRUCTION.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_11_RECONSTRUCTION.md
+- Stage-H Git SHA: 0b7b25d20dac479e483ad6e4582afac147efcaac
+- Evidence role: RETROSPECTIVE_MONTH
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # November 2025 Reconstruction — Stage H
+- Retained heading 2: ## Selected event
+- Retained heading 3: ## Narrative
+- Retained heading 4: ## Boundary
+- Retained heading 5: ## Decision
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: MONTH_2025_12_RECONSTRUCTION.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_12_RECONSTRUCTION.md
+- Stage-H Git SHA: 2f157716ee454abf7c6632a9af9287ebb29e1fac
+- Evidence role: RETROSPECTIVE_MONTH
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # December 2025 Reconstruction — Stage H
+- Retained heading 2: ## Selected event
+- Retained heading 3: ## Narrative
+- Retained heading 4: ## Boundary
+- Retained heading 5: ## Decision
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: RESEARCH_REVIEW.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/RESEARCH_REVIEW.md
+- Stage-H Git SHA: a2cc701151621459b83bc24f577703ac11a8750f
+- Evidence role: SOURCE_CRITIQUE
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # Stage H Research Review — 2025-Q4
+- Retained heading 2: ## Review scope
+- Retained heading 3: ## Findings
+- Retained heading 4: ## Counterevidence / limits
+- Retained heading 5: ## Review result
+- Actual record claim 1: - CycloneDX and SLSA are specifications/ecosystem standards, not local executions.
+- Actual record claim 2: - Pandoc release notes state supported formats but do not validate this repository's conversion fidelity.
+- Actual record claim 3: - The three sources are different projects; their conceptual relation is this Stage's synthesis, not a formal dependency between projects.
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: SOURCE_OBJECT_REGISTER.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/SOURCE_OBJECT_REGISTER.md
+- Stage-H Git SHA: 9718b9e8323d2d0cb86f48f7ea32d1dcdaaa6cdc
+- Evidence role: SOURCE_PROVENANCE
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # Stage H Source / Object Register — 2025-Q4
+- Retained heading 2: ## Register rule
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: STAGE_BRIEF.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/STAGE_BRIEF.md
+- Stage-H Git SHA: 971e2bc61ed9d18d7fe8b1c351ece8a631609a9f
+- Evidence role: STAGE_BOUNDARY
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # Frontier Research Stage Brief — Stage H / 2025-Q4
+- Retained heading 2: ## Identity
+- Retained heading 3: ## Rationale
+- Retained heading 4: ## Research questions
+- Retained heading 5: ## Selected objects
+- Actual record claim 1: - Repository: `lostlight530/auto-doc-engine`
+- Actual record claim 2: - Window: `2025-10-01 through 2025-12-31`
+- Actual record claim 3: - Record type: `RETROSPECTIVE`
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: STAGE_HANDOFF.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/STAGE_HANDOFF.md
+- Stage-H Git SHA: a55c074cae8f0c8a3528c0d30f7985cf4ce82d5b
+- Evidence role: NEXT_STAGE_TRANSFER
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # Stage H Handoff — 2025-Q4
+- Retained heading 2: ## Preserved findings
+- Retained heading 3: ## Open questions for the next stage
+- Retained heading 4: ## Handoff boundary
+- Actual record claim 1: - Citation/provenance relationships improve inspectability without proving truth.
+- Actual record claim 2: - Source-management provenance must remain separate from build/release provenance.
+- Actual record claim 3: - Broader converter input support increases source-format/parser identity requirements.
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 evidence linkage: STAGE_SYNTHESIS.md
+- Original source path: maintenance/frontier-research/stage-h-2025-q4/STAGE_SYNTHESIS.md
+- Stage-H Git SHA: b2abae7cfbbd513e93ad0dbcb013547d5e7b9d82
+- Evidence role: SYNTHESIS
+- A1 source identity vs latest A2 source identity: same original blob, NO_NATIVE_REWRITE
+- Retained heading 1: # Frontier Research Stage Synthesis — Stage H / 2025-Q4
+- Retained heading 2: ## Identity
+- Retained heading 3: ## Quarter narrative
+- Retained heading 4: ## Previous-stage delta
+- Retained heading 5: ## Current repository assessment
+- Actual record claim 1: - Window: `2025-10-01 through 2025-12-31`
+- Actual record claim 2: - Coverage: `SEARCH_BOUNDED`
+- Actual record claim 3: - Synthesis date: `2026-09-27`
+- A2 temporal disposition: source belongs to 2025-Q4 historical Stage H; Oct 14 relation update adds no new Stage or runtime result
+
+### A2 acceptance boundary
+- A1 inherited: YES (current owner blob a51767723f530f801b7c65c1e2be0a516f73a1a1)
+- Stage-H source content updated: NO
+- Historical status and known limitations overwritten: NO
+- Monthly state: OPEN / NOT_FINAL
+- New Stage I: NOT_PRODUCED_BY_MAINTENANCE
+- Original scientific producer execution replay: NOT_PERFORMED
+- Final state: CURRENT_OCTOBER_RELATION_REFRESHED / HISTORY_PRESERVED
