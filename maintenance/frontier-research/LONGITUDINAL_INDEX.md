@@ -5223,3 +5223,180 @@ STAGE_IDENTITY_DATE_2026_10_08
 - New Stage I: NOT_PRODUCED_BY_MAINTENANCE
 - Original scientific producer execution replay: NOT_PERFORMED
 - Final state: CURRENT_OCTOBER_RELATION_REFRESHED / HISTORY_PRESERVED
+
+## A1 2026-10-15 | Stage-H original research artifact review (October N−1)
+- Main authority: 0867649d169b8ef83658e370ef853ef49da71155; prior owner blob cfde7ceba24c33c5465c3361283b642999cb7d74.
+- Current October maintenance window: October 1–14; original source study window: 2025-Q4, not October 2026.
+- Stage H is the latest original bounded research source; new Stage I execution for October 15 is NOT_DUE/NOT_OBSERVED, not fabricated.
+- Each of the 13 source artifacts below was read by path on latest main; Git blob identities and checked text snippets are recorded separately.
+- Research ingestion/reproduction is not rerun by this independent monthly maintenance.
+- Earlier September/October stage source corrections and dates remain unchanged; existing monthly evidence relation is append-only.
+- This A1 examines source-to-index links, not general repository documentation or open-source governance materials.
+
+### CONTRIBUTOR_STATEMENT.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/CONTRIBUTOR_STATEMENT.md`.
+- Read-file Git blob identity: `170e6322fd5c544ea5c6d44401a019f764a69b27`.
+- Current original file length: 8 lines; this A1 did not modify its bytes.
+- Original document first heading: # Contributor Statement — Stage H / 2025-Q4.
+- Source-class relation: STAGE_SUPPORTING_SOURCE; it is not an additional October daily research execution.
+- Checked source detail A: # Contributor Statement — Stage H / 2025-Q4
+- Checked source detail B: No second bounded period/status marker extracted; leave unknown.
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role STAGE_SUPPORTING_SOURCE belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### EVIDENCE_CHART.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/EVIDENCE_CHART.md`.
+- Read-file Git blob identity: `ab31a909f5bd4df72cfc2ece7b419d03739aa757`.
+- Current original file length: 10 lines; this A1 did not modify its bytes.
+- Original document first heading: # Stage H Evidence Chart — 2025-Q4.
+- Source-class relation: EVIDENCE_LEDGER; it is not an additional October daily research execution.
+- Checked source detail A: # Stage H Evidence Chart — 2025-Q4
+- Checked source detail B: Coverage is `SEARCH_BOUNDED`. Each source is authoritative for its own release/specification claims, not for repository implementation.
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role EVIDENCE_LEDGER belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md`.
+- Read-file Git blob identity: `eba05037fdda0a36f9bb5ae4e1a80ee88bb140d3`.
+- Current original file length: 31 lines; this A1 did not modify its bytes.
+- Original document first heading: # H1 — CycloneDX 1.7: Citation, Provenance, and BOM Relationship Identity.
+- Source-class relation: TOPICAL_STAGE_SOURCE; it is not an additional October daily research execution.
+- Checked source detail A: No explicit period/status marker in sampled heading lines; do not infer.
+- Checked source detail B: No second bounded period/status marker extracted; leave unknown.
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role TOPICAL_STAGE_SOURCE belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md`.
+- Read-file Git blob identity: `ee01cde19cf95eb5cad564d1a35a4c06ef058c99`.
+- Current original file length: 31 lines; this A1 did not modify its bytes.
+- Original document first heading: # H2 — SLSA 1.2: Source Track and Policy-Verifiable Provenance.
+- Source-class relation: TOPICAL_STAGE_SOURCE; it is not an additional October daily research execution.
+- Checked source detail A: No explicit period/status marker in sampled heading lines; do not infer.
+- Checked source detail B: No second bounded period/status marker extracted; leave unknown.
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role TOPICAL_STAGE_SOURCE belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md`.
+- Read-file Git blob identity: `c6924b9a39410041ff102c8d6d60d67b83c2bc7f`.
+- Current original file length: 33 lines; this A1 did not modify its bytes.
+- Original document first heading: # H3 — Pandoc 3.8.3: Broader Input Surface and Transformation Identity.
+- Source-class relation: TOPICAL_STAGE_SOURCE; it is not an additional October daily research execution.
+- Checked source detail A: No explicit period/status marker in sampled heading lines; do not infer.
+- Checked source detail B: No second bounded period/status marker extracted; leave unknown.
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role TOPICAL_STAGE_SOURCE belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### MONTH_2025_10_RECONSTRUCTION.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_10_RECONSTRUCTION.md`.
+- Read-file Git blob identity: `05f7e460d180036a5b1a257fb02b1b493f8e1acf`.
+- Current original file length: 14 lines; this A1 did not modify its bytes.
+- Original document first heading: # October 2025 Reconstruction — Stage H.
+- Source-class relation: HISTORICAL_MONTH_RECONSTRUCTION; it is not an additional October daily research execution.
+- Checked source detail A: No explicit period/status marker in sampled heading lines; do not infer.
+- Checked source detail B: No second bounded period/status marker extracted; leave unknown.
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role HISTORICAL_MONTH_RECONSTRUCTION belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### MONTH_2025_11_RECONSTRUCTION.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_11_RECONSTRUCTION.md`.
+- Read-file Git blob identity: `0b7b25d20dac479e483ad6e4582afac147efcaac`.
+- Current original file length: 14 lines; this A1 did not modify its bytes.
+- Original document first heading: # November 2025 Reconstruction — Stage H.
+- Source-class relation: HISTORICAL_MONTH_RECONSTRUCTION; it is not an additional October daily research execution.
+- Checked source detail A: No explicit period/status marker in sampled heading lines; do not infer.
+- Checked source detail B: No second bounded period/status marker extracted; leave unknown.
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role HISTORICAL_MONTH_RECONSTRUCTION belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### MONTH_2025_12_RECONSTRUCTION.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_12_RECONSTRUCTION.md`.
+- Read-file Git blob identity: `2f157716ee454abf7c6632a9af9287ebb29e1fac`.
+- Current original file length: 14 lines; this A1 did not modify its bytes.
+- Original document first heading: # December 2025 Reconstruction — Stage H.
+- Source-class relation: HISTORICAL_MONTH_RECONSTRUCTION; it is not an additional October daily research execution.
+- Checked source detail A: Input support is not source-semantic equivalence, rendered fidelity, or reproduction.
+- Checked source detail B: No second bounded period/status marker extracted; leave unknown.
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role HISTORICAL_MONTH_RECONSTRUCTION belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### RESEARCH_REVIEW.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/RESEARCH_REVIEW.md`.
+- Read-file Git blob identity: `a2cc701151621459b83bc24f577703ac11a8750f`.
+- Current original file length: 19 lines; this A1 did not modify its bytes.
+- Original document first heading: # Stage H Research Review — 2025-Q4.
+- Source-class relation: SYNTHESIS_REVIEW; it is not an additional October daily research execution.
+- Checked source detail A: # Stage H Research Review — 2025-Q4
+- Checked source detail B: 3. No source supports upgrading provenance metadata into truth, reproduction, or conformance.
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role SYNTHESIS_REVIEW belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### SOURCE_OBJECT_REGISTER.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/SOURCE_OBJECT_REGISTER.md`.
+- Read-file Git blob identity: `9718b9e8323d2d0cb86f48f7ea32d1dcdaaa6cdc`.
+- Current original file length: 11 lines; this A1 did not modify its bytes.
+- Original document first heading: # Stage H Source / Object Register — 2025-Q4.
+- Source-class relation: SOURCE_REGISTRY; it is not an additional October daily research execution.
+- Checked source detail A: # Stage H Source / Object Register — 2025-Q4
+- Checked source detail B: These are historical frontier objects selected for narrative continuity. Registration does not imply implementation, local validation, independent reproduction, or normative reposi
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role SOURCE_REGISTRY belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### STAGE_BRIEF.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/STAGE_BRIEF.md`.
+- Read-file Git blob identity: `971e2bc61ed9d18d7fe8b1c351ece8a631609a9f`.
+- Current original file length: 36 lines; this A1 did not modify its bytes.
+- Original document first heading: # Frontier Research Stage Brief — Stage H / 2025-Q4.
+- Source-class relation: STAGE_SUPPORTING_SOURCE; it is not an additional October daily research execution.
+- Checked source detail A: # Frontier Research Stage Brief — Stage H / 2025-Q4
+- Checked source detail B: - Stage: `H / 2025-Q4`
+- Checked source detail C: - Window: `2025-10-01 through 2025-12-31`
+- Temporal adjudication: source role STAGE_SUPPORTING_SOURCE belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### STAGE_HANDOFF.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/STAGE_HANDOFF.md`.
+- Read-file Git blob identity: `a55c074cae8f0c8a3528c0d30f7985cf4ce82d5b`.
+- Current original file length: 15 lines; this A1 did not modify its bytes.
+- Original document first heading: # Stage H Handoff — 2025-Q4.
+- Source-class relation: STAGE_HANDOFF; it is not an additional October daily research execution.
+- Checked source detail A: # Stage H Handoff — 2025-Q4
+- Checked source detail B: No second bounded period/status marker extracted; leave unknown.
+- Checked source detail C: No third bounded period/status marker extracted; leave unknown.
+- Temporal adjudication: source role STAGE_HANDOFF belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### STAGE_SYNTHESIS.md — source object
+- Original path: `maintenance/frontier-research/stage-h-2025-q4/STAGE_SYNTHESIS.md`.
+- Read-file Git blob identity: `b2abae7cfbbd513e93ad0dbcb013547d5e7b9d82`.
+- Current original file length: 42 lines; this A1 did not modify its bytes.
+- Original document first heading: # Frontier Research Stage Synthesis — Stage H / 2025-Q4.
+- Source-class relation: STAGE_SUPPORTING_SOURCE; it is not an additional October daily research execution.
+- Checked source detail A: # Frontier Research Stage Synthesis — Stage H / 2025-Q4
+- Checked source detail B: - Window: `2025-10-01 through 2025-12-31`
+- Checked source detail C: - Coverage: `SEARCH_BOUNDED`
+- Temporal adjudication: source role STAGE_SUPPORTING_SOURCE belongs to retained 2025-Q4 Stage-H historical evidence; new October maintenance is only a 2026-10 relation checkpoint.
+- Evidence ceiling: path/hash/heading review cannot establish scientific reproducibility, a new software release, runtime integration, or newly completed Stage-I research.
+
+### A1 continuity and unmodified-native decision
+- All 13 original Stage-H source objects were fetched and represented by distinct file identities in this A1 ledger.
+- No scientific producer artifact was rewritten, renumbered or relocated.
+- H1–H3 technical topic labels remain source-document titles, not independent runnable systems.
+- The three original Q4 month reconstructions retain 2025-10, 2025-11, 2025-12 historical windows.
+- Stage H synthesis and handoff are separate records with source claims and dependencies; mere coexistence is not a complete research replication.
+- October maintenance review does not manufacture a 2026-10 Stage-I output.
+- Earlier D14 audit is separate from this A1 and is not duplicate original research production.
+- A2 begins only after all ten October 15 A1 PRs merge and fresh main is read.
+- A1 verification must include diff, merge result, and post-merge owner blob.
+
