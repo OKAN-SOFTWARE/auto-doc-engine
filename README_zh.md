@@ -325,3 +325,9 @@ Experimental source != Integrated capability
 ```
 
 `CITATION.cff` 使用 CFF 1.2.0，License 为 MIT
+
+## 已归档检查点 — 2026-10-14
+
+[v2026.10-fourteen-day-evidence-checkpoint](https://github.com/lostlight530/auto-doc-engine/releases/tag/v2026.10-fourteen-day-evidence-checkpoint) 已归档，版本 DOI 为 [10.5281/zenodo.23365510](https://doi.org/10.5281/zenodo.23365510)
+
+软件家族 DOI、历史版本、准确版本引用和开放科研复用入口见 [发布与归档规范](RELEASE_POLICY.md)
