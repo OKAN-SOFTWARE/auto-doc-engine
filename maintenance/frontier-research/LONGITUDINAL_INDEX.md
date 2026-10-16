@@ -5729,3 +5729,158 @@ STAGE_IDENTITY_DATE_2026_10_08
 - A1 month coverage judged complete for this 13-file Stage H input set as visible on inspected main, with no invented new staged output
 - Handoff to A2: inherit this 13-file identity and evaluate 2026-10-16 current main/Stage router without rewriting A1's Oct 15 cutoff
 - Outcome: A1_COVERAGE_RECORDED / NO_NATIVE_SOURCE_REWRITE / MONTH_OPEN / PENDING_REVIEW_AND_MERGE
+
+## 2026-10-16 A2 | Auto-Doc single October 2026 longitudinal relation after A1 merge
+
+- Post-A1 main: `c832fb26cdcd3e9bbdee35f96eb046e031cb131d`; A1 source coverage appended previously, A2 now maintains one current month lineage in the same owner
+- Stage input set exactly thirteen current original Stage-H 2025-Q4 files, not 13 new October 2026 research results
+- Manifest provenance `MANIFEST.yaml` Git blob `21f48e51ff90f593e0c7bbd9ca11693c57177024`; stage/contract status sourced from repository declarations, no manual local execution claimed
+- Active current profiles: artifact-record, artifact-lineage, process-disclosure, basis/coverage, ro-crate; declarations are documentation, not third-party compliance
+- Month identity `2026-10` remains OPEN despite Stage-H historical Q4 research being marked COMPLETE; 2026-08 infrastructure stage closure is also a separate clock
+- Monthly relation: source-register → H1/H2/H3 → three month reconstructions → review → synthesis → handoff → current longitudinal index, source-to-authority not runtime validation
+- Cross-repo handoff uses declared typed artifact lineage to downstream epistemic evidence envelope and renderer communication surface, direct runtime coupling false
+- A1 verified source body retention; this A2 extracts later source statements and assigns explicit current-vs-historical acceptance relationships, not a second source production
+- No Stage I original producer artifact observed, no environment execution or implementation modification justified
+- Current manifest/13 source object relational decisions:
+### H/01 CONTRIBUTOR_STATEMENT.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/CONTRIBUTOR_STATEMENT.md`; exact Git blob `170e6322fd5c544ea5c6d44401a019f764a69b27`
+- Current 2026-10 canonical relationship role: Contributor attribution and human/tool process description
+- Source authority / upstream link: Attribution record, not another primary CycloneDX/SLSA/Pandoc source
+- Successor/handoff gate: Next stage must preserve named contributor scope, no author reassignment
+- Distinct source statement L3: Stage H was reconstructed on 2026-09-27 from current repository authority plus primary external release/specification sources.
+- Distinct source statement L5: External sources supplied historical object facts. Repository conclusions and mappings remain source-bounded, non-normative frontier research.
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: CURRENT_LINEAGE_RELATION_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/02 EVIDENCE_CHART.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/EVIDENCE_CHART.md`; exact Git blob `ab31a909f5bd4df72cfc2ece7b419d03739aa757`
+- Current 2026-10 canonical relationship role: Three Q4 research questions paired with supported and explicitly unsupported statements
+- Source authority / upstream link: Evidence acceptance table is a join across H1/H2/H3, not an extra experiment
+- Successor/handoff gate: A2 preserves unsupported field values rather than inferring tool conformance
+- Distinct source statement L9: Coverage is 'SEARCH_BOUNDED'. Each source is authoritative for its own release/specification claims, not for repository implementation.
+- Distinct source statement L0: NO_SECOND_TEXT_IN_SHORT_RECORD
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: CURRENT_LINEAGE_RELATION_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/03 H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md`; exact Git blob `eba05037fdda0a36f9bb5ae4e1a80ee88bb140d3`
+- Current 2026-10 canonical relationship role: CycloneDX 1.7 citation/provenance relationship surface in Oct2025
+- Source authority / upstream link: Citation/provenance relations are inspectable metadata not content truth
+- Successor/handoff gate: Current artifact-record lineage must not import CycloneDX schema compliance by analogy
+- Distinct source statement L25: - provenance trace != semantic equivalence
+- Distinct source statement L26: - auditability != audit performed
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: NON_NORMATIVE_EVIDENCE_BOUNDARY_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/04 H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md`; exact Git blob `ee01cde19cf95eb5cad564d1a35a4c06ef058c99`
+- Current 2026-10 canonical relationship role: SLSA 1.2 Source Track separation from build provenance in Nov2025
+- Source authority / upstream link: Source authorship/review management ≠ build artifact attestation
+- Successor/handoff gate: Repository transfer should keep origin policy evidence separately from compiler output hash
+- Distinct source statement L25: - source-control evidence != scientific validity
+- Distinct source statement L26: - provenance policy != policy enforcement proof
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: NON_NORMATIVE_EVIDENCE_BOUNDARY_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/05 H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md`; exact Git blob `c6924b9a39410041ff102c8d6d60d67b83c2bc7f`
+- Current 2026-10 canonical relationship role: Pandoc 3.8.3 broadened source-format input in Dec2025
+- Source authority / upstream link: Format support does not imply semantic equivalence or rendering fidelity
+- Successor/handoff gate: Future transformation receipt must bind parser/source-format and output identity
+- Distinct source statement L27: - parse success != semantic equivalence
+- Distinct source statement L28: - common AST != identical source semantics
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: NON_NORMATIVE_EVIDENCE_BOUNDARY_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/06 MONTH_2025_10_RECONSTRUCTION.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_10_RECONSTRUCTION.md`; exact Git blob `05f7e460d180036a5b1a257fb02b1b493f8e1acf`
+- Current 2026-10 canonical relationship role: October 2025 reconstructed CycloneDX Q4 history
+- Source authority / upstream link: Historically placed month source, not Oct2026 event
+- Successor/handoff gate: Current month may only refer to this immutable reconstruction as prior input
+- Distinct source statement L4: CycloneDX 1.7 was released on 2025-10-21.
+- Distinct source statement L7: October moves the documentary evidence story from “inventory plus relationships” toward explicit attribution. Citation and provenance structures make the origin of enrichment or evidence more expressible.
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: CURRENT_LINEAGE_RELATION_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/07 MONTH_2025_11_RECONSTRUCTION.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_11_RECONSTRUCTION.md`; exact Git blob `0b7b25d20dac479e483ad6e4582afac147efcaac`
+- Current 2026-10 canonical relationship role: November 2025 SLSA source-track reconstruction
+- Source authority / upstream link: Publisher historical month is preserved apart from check date
+- Successor/handoff gate: Do not claim repository currently enforces SLSA Source Track
+- Distinct source statement L4: SLSA v1.2 was released on 2025-11-24 with the Source Track.
+- Distinct source statement L7: November shifts the upstream boundary: artifact provenance is no longer only a build/release question. Source authoring, review, and source-management state become separately modelable evidence.
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: CURRENT_LINEAGE_RELATION_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/08 MONTH_2025_12_RECONSTRUCTION.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_12_RECONSTRUCTION.md`; exact Git blob `2f157716ee454abf7c6632a9af9287ebb29e1fac`
+- Current 2026-10 canonical relationship role: December 2025 Pandoc input-format reconstruction
+- Source authority / upstream link: Publisher release month not same as current repo build configuration
+- Successor/handoff gate: No Pandoc conversion correctness validation in A2
+- Distinct source statement L4: Pandoc 3.8.3 was released on 2025-12-01.
+- Distinct source statement L7: December broadens the source-document graph: spreadsheets, presentations, and AsciiDoc can enter Pandoc's conversion surface. This makes source-format and parser identity more important, not less.
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: CURRENT_LINEAGE_RELATION_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/09 RESEARCH_REVIEW.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/RESEARCH_REVIEW.md`; exact Git blob `a2cc701151621459b83bc24f577703ac11a8750f`
+- Current 2026-10 canonical relationship role: Stage H reviewer acceptance as non-normative frontier research
+- Source authority / upstream link: No current implementation drift or conformance proof was found in source review
+- Successor/handoff gate: Next stage can reuse questions but must gain independent runtime evidence
+- Distinct source statement L13: - CycloneDX and SLSA are specifications/ecosystem standards, not local executions.
+- Distinct source statement L14: - Pandoc release notes state supported formats but do not validate this repository's conversion fidelity.
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: CURRENT_LINEAGE_RELATION_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/10 SOURCE_OBJECT_REGISTER.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/SOURCE_OBJECT_REGISTER.md`; exact Git blob `9718b9e8323d2d0cb86f48f7ea32d1dcdaaa6cdc`
+- Current 2026-10 canonical relationship role: H-S1 CycloneDX 1.7, H-S2 SLSA 1.2, H-S3 Pandoc 3.8.3
+- Source authority / upstream link: Three publisher objects with distinct date/authority, not one corroborated joint claim
+- Successor/handoff gate: Keep stable source identity before establishing derivative cross-reference
+- Distinct source statement L10: These are historical frontier objects selected for narrative continuity. Registration does not imply implementation, local validation, independent reproduction, or normative repository adoption.
+- Distinct source statement L0: NO_SECOND_TEXT_IN_SHORT_RECORD
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: CURRENT_LINEAGE_RELATION_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/11 STAGE_BRIEF.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/STAGE_BRIEF.md`; exact Git blob `971e2bc61ed9d18d7fe8b1c351ece8a631609a9f`
+- Current 2026-10 canonical relationship role: HISTORICAL_FRONTIER_RECONSTRUCTION + TARGETED_EVIDENCE_SYNTHESIS
+- Source authority / upstream link: Scope declaration is a bounded method, not new live Oct16 source
+- Successor/handoff gate: No producer can infer stage-I authorization from finished Stage-H brief
+- Distinct source statement L31: approved specification != local conformance
+- Distinct source statement L32: format support != semantic fidelity
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: CURRENT_LINEAGE_RELATION_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/12 STAGE_HANDOFF.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/STAGE_HANDOFF.md`; exact Git blob `a55c074cae8f0c8a3528c0d30f7985cf4ce82d5b`
+- Current 2026-10 canonical relationship role: Next research questions on attestations, transformation receipts and source-policy validation
+- Source authority / upstream link: Handoff transfers questions/context, not scientific validity, conformance or implementation
+- Successor/handoff gate: Successor stage may open only on separately evidenced original production
+- Distinct source statement L9: - How do 2026-era attestations and transparency formats handle AI/agent-generated artifacts?
+- Distinct source statement L10: - When can transformation receipts become portable evidence without implying semantic equivalence?
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: OPEN_NEXT_STAGE_QUESTION_ONLY / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+### H/13 STAGE_SYNTHESIS.md
+- Native historical object: `maintenance/frontier-research/stage-h-2025-q4/STAGE_SYNTHESIS.md`; exact Git blob `b2abae7cfbbd513e93ad0dbcb013547d5e7b9d82`
+- Current 2026-10 canonical relationship role: Historical 2025Q4 narrative synthesis completed on 2026-09-27
+- Source authority / upstream link: Status FRONTIER_STAGE_COMPLETE refers to that source stage only
+- Successor/handoff gate: Current October 2026 index OPEN, no separate latest Stage-I output evidenced
+- Distinct source statement L29: - STRENGTHENED: publication identity and source identity remain different clocks.
+- Distinct source statement L30: - NEW: spreadsheet/presentation/AsciiDoc source formats broaden transformation identity.
+- Historical research clock: Stage H 2025-Q4 retained, inspection belongs to 2026-10 current relational version
+- A2 evolution decision: CURRENT_LINEAGE_RELATION_RETAINED / NO_STAGE_I_NATIVE_CREDIT
+- Prohibited inference: neither SHA retention nor October maintenance certifies independent replay, evidence-truth, source compliance or rendering fidelity
+
+### October-wide acceptance, conflicts and next-stage state
+- H-S1 CycloneDX citation and BOM provenance not scientific truth, although it increases attribution inspectability
+- H-S2 SLSA Source Track author/review provenance cannot be replaced by downstream build attestation
+- H-S3 Pandoc input-format breadth raises parser and structural identity requirements; it does not validate semantic transformation fidelity
+- Current Auto-Doc record, assertion basis and typed lineage may model evidence identities, but unsupported transfer cannot become scientific authority
+- Source chronology October→November→December 2025 is a research narrative, not a dependency chain between separate publishers
+- 2026-09-27 original Stage-H synthesis COMPLETE does not certify fresh Oct2026 execution or active source change
+- No current repo drift, runtime change or contract change was claimed by original synthesis; no independently executable recheck by this maintainer upgrades it
+- No new Stage-I result; handoff open questions remain QUESTIONS_PENDING_NATIVE_STAGE, not generated source records
+- A2 one-month owner retains reference to merged A1 without rewriting that cutoff, all 13 original blobs unchanged
+- Outcome: A2_OCTOBER_LINEAGE_OPEN / STAGE_H_HISTORICAL_COMPLETE / 13_NATIVE_HISTORICAL_INPUTS / STAGE_I_NOT_EVIDENCED
