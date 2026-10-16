@@ -5564,3 +5564,168 @@ STAGE_IDENTITY_DATE_2026_10_08
 - This record supplies N current-main continuity, not a second claimed native Stage-H research run.
 - Final A2 acceptance requires actual PR diff, GitHub merge and subsequent owner/main verification.
 
+## 2026-10-16 | A1 full source-file coverage, ordinary month-to-date maintenance
+
+- Owner: the existing longitudinal research index; no parallel monthly source or new Stage I record created
+- Scope: month 2026-10-01 through 2026-10-15, Stage H current source registry and all 13 retained original Stage-H files
+- Reviewed base current main: `cf90d8b120dc010ffc059e2a64face9edb01253c`; 13 Git blobs checked against this exact baseline
+- Source producer and logical period: Stage H historical 2025-Q4; inspection date is 2026-10-16 and is not a new source creation time
+- Monthly maturity: OPEN; Stage I native research not evidenced; historical Stage H synthesis/handoff are not runtime handoff acceptance
+- Decision identity: A1_2026-10-16_STAGE_H_13_BLOB_FULL_COVERAGE; no file was changed merely to leave a per-file marker
+- Checks performed: read each of the 13 retained original file bodies and metadata, retain source title/line excerpts and blob identity below
+- Checks not performed: external publisher recertification, repository worktree tests, rendering, dependency resolution, executable replay, independent paper reproduction
+- Evidence caution: this bounded read establishes retention/content identity and scope statements, not the external scientific truth of the underlying source claims
+### 01 CONTRIBUTOR_STATEMENT.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/CONTRIBUTOR_STATEMENT.md`
+- Immutable inspected blob: `170e6322fd5c544ea5c6d44401a019f764a69b27`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # Contributor Statement — Stage H / 2025-Q4
+- Indexed structural role: SINGLE_SECTION_RECORD; historical period stays 2025-Q4
+- Retained producer statement 1 (L3): Stage H was reconstructed on 2026-09-27 from current repository authority plus primary external release/specification sources.
+- Retained producer statement 2 (L5): External sources supplied historical object facts. Repository conclusions and mappings remain source-bounded, non-normative frontier research.
+- Retained producer statement 3 (L7): No CycloneDX/SLSA/Pandoc runtime or conformance test was executed. No historical Stage A-G file was rewritten.
+- Retained producer statement 4 (no extra text): NONE_IN_THIS_SHORT_ARTIFACT
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 02 EVIDENCE_CHART.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/EVIDENCE_CHART.md`
+- Immutable inspected blob: `ab31a909f5bd4df72cfc2ece7b419d03739aa757`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # Stage H Evidence Chart — 2025-Q4
+- Indexed structural role: SINGLE_SECTION_RECORD; historical period stays 2025-Q4
+- Retained producer statement 1 (L3): | Research question | Primary evidence | Supported statement | Not supported |
+- Retained producer statement 2 (L5): | How does BOM evidence become more attributable? | CycloneDX 1.7 announcement/spec history | v1.7 adds citation/provenance-oriented traceability surfaces | truth, repository conformance, complete evidence sufficiency |
+- Retained producer statement 3 (L6): | How does source provenance become first-class? | SLSA v1.2 release | v1.2 introduces Source Track | source correctness, local enforcement, scientific validity |
+- Retained producer statement 4 (L7): | What changes when converter inputs broaden? | Pandoc 3.8.3 release notes | AsciiDoc/XLSX/PPTX inputs and BBCode outputs were added | semantic fidelity, local replay, byte equivalence |
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 03 H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md`
+- Immutable inspected blob: `eba05037fdda0a36f9bb5ae4e1a80ee88bb140d3`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # H1 — CycloneDX 1.7: Citation, Provenance, and BOM Relationship Identity
+- Indexed structural role: ## Source identity; historical period stays 2025-Q4
+- Retained producer statement 1 (L4): - Object: CycloneDX 1.7
+- Retained producer statement 2 (L5): - Release date: 2025-10-21
+- Retained producer statement 3 (L6): - Primary source: https://cyclonedx.org/news/cyclonedx-v1.7-released/
+- Retained producer statement 4 (L7): - Specification overview: https://cyclonedx.org/specification/overview/
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 04 H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md`
+- Immutable inspected blob: `ee01cde19cf95eb5cad564d1a35a4c06ef058c99`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # H2 — SLSA 1.2: Source Track and Policy-Verifiable Provenance
+- Indexed structural role: ## Source identity; historical period stays 2025-Q4
+- Retained producer statement 1 (L4): - Object: SLSA v1.2
+- Retained producer statement 2 (L5): - Release date: 2025-11-24
+- Retained producer statement 3 (L6): - Primary source: https://slsa.dev/blog/2025/11/announce-slsa-v1.2
+- Retained producer statement 4 (L9): SLSA 1.2 introduces the Source Track, extending the model beyond build provenance into source authoring, review, and source-management threats.
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 05 H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md`
+- Immutable inspected blob: `c6924b9a39410041ff102c8d6d60d67b83c2bc7f`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # H3 — Pandoc 3.8.3: Broader Input Surface and Transformation Identity
+- Indexed structural role: ## Source identity; historical period stays 2025-Q4
+- Retained producer statement 1 (L4): - Object: Pandoc 3.8.3
+- Retained producer statement 2 (L5): - Release date: 2025-12-01
+- Retained producer statement 3 (L6): - Primary source: https://pandoc.org/releases.html
+- Retained producer statement 4 (L9): Pandoc 3.8.3 adds AsciiDoc, XLSX, and PPTX as input formats and BBCode variants as outputs. This materially broadens the kinds of source artifacts that can enter one conversion graph.
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 06 MONTH_2025_10_RECONSTRUCTION.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_10_RECONSTRUCTION.md`
+- Immutable inspected blob: `05f7e460d180036a5b1a257fb02b1b493f8e1acf`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # October 2025 Reconstruction — Stage H
+- Indexed structural role: ## Selected event; historical period stays 2025-Q4
+- Retained producer statement 1 (L4): CycloneDX 1.7 was released on 2025-10-21.
+- Retained producer statement 2 (L7): October moves the documentary evidence story from “inventory plus relationships” toward explicit attribution. Citation and provenance structures make the origin of enrichment or evidence more expressible.
+- Retained producer statement 3 (L10): More expressive provenance does not establish that the cited proposition is true, complete, or independently verified.
+- Retained producer statement 4 (L13): 'APPEND_RELATION — ATTRIBUTABLE_EVIDENCE_SURFACE_EXPANDED'
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 07 MONTH_2025_11_RECONSTRUCTION.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_11_RECONSTRUCTION.md`
+- Immutable inspected blob: `0b7b25d20dac479e483ad6e4582afac147efcaac`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # November 2025 Reconstruction — Stage H
+- Indexed structural role: ## Selected event; historical period stays 2025-Q4
+- Retained producer statement 1 (L4): SLSA v1.2 was released on 2025-11-24 with the Source Track.
+- Retained producer statement 2 (L7): November shifts the upstream boundary: artifact provenance is no longer only a build/release question. Source authoring, review, and source-management state become separately modelable evidence.
+- Retained producer statement 3 (L10): Source-management provenance is not source truth, review quality, or proof that an implementation satisfies SLSA.
+- Retained producer statement 4 (L13): 'APPEND_RELATION — SOURCE_IDENTITY_AND_CONTROL_SEPARATED'
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 08 MONTH_2025_12_RECONSTRUCTION.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_12_RECONSTRUCTION.md`
+- Immutable inspected blob: `2f157716ee454abf7c6632a9af9287ebb29e1fac`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # December 2025 Reconstruction — Stage H
+- Indexed structural role: ## Selected event; historical period stays 2025-Q4
+- Retained producer statement 1 (L4): Pandoc 3.8.3 was released on 2025-12-01.
+- Retained producer statement 2 (L7): December broadens the source-document graph: spreadsheets, presentations, and AsciiDoc can enter Pandoc's conversion surface. This makes source-format and parser identity more important, not less.
+- Retained producer statement 3 (L10): Input support is not source-semantic equivalence, rendered fidelity, or reproduction.
+- Retained producer statement 4 (L13): 'APPEND_RELATION — TRANSFORMATION_INPUT_IDENTITY_EXPANDED'
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 09 RESEARCH_REVIEW.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/RESEARCH_REVIEW.md`
+- Immutable inspected blob: `a2cc701151621459b83bc24f577703ac11a8750f`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # Stage H Research Review — 2025-Q4
+- Indexed structural role: ## Review scope; historical period stays 2025-Q4
+- Retained producer statement 1 (L4): Review of the three selected Q4 objects and their fit with the repository's documentary-lineage narrative.
+- Retained producer statement 2 (L7): 1. The selected objects form a coherent progression from attribution, to source provenance, to transformation input identity.
+- Retained producer statement 3 (L8): 2. None establishes a current implementation defect in auto-doc-engine.
+- Retained producer statement 4 (L9): 3. No source supports upgrading provenance metadata into truth, reproduction, or conformance.
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 10 SOURCE_OBJECT_REGISTER.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/SOURCE_OBJECT_REGISTER.md`
+- Immutable inspected blob: `9718b9e8323d2d0cb86f48f7ea32d1dcdaaa6cdc`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # Stage H Source / Object Register — 2025-Q4
+- Indexed structural role: ## Register rule; historical period stays 2025-Q4
+- Retained producer statement 1 (L3): | ID | Object | Date | Source | Evidence role | Boundary |
+- Retained producer statement 2 (L5): | H-S1 | CycloneDX 1.7 | 2025-10-21 | cyclonedx.org | BOM citation/provenance relation | citation != truth |
+- Retained producer statement 3 (L6): | H-S2 | SLSA 1.2 | 2025-11-24 | slsa.dev | source-track provenance/control | level != truth/conformance |
+- Retained producer statement 4 (L7): | H-S3 | Pandoc 3.8.3 | 2025-12-01 | pandoc.org | input/output transformation identity | support != fidelity/replay |
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 11 STAGE_BRIEF.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/STAGE_BRIEF.md`
+- Immutable inspected blob: `971e2bc61ed9d18d7fe8b1c351ece8a631609a9f`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # Frontier Research Stage Brief — Stage H / 2025-Q4
+- Indexed structural role: ## Identity; historical period stays 2025-Q4
+- Retained producer statement 1 (L4): - Repository: 'lostlight530/auto-doc-engine'
+- Retained producer statement 2 (L5): - Stage: 'H / 2025-Q4'
+- Retained producer statement 3 (L6): - Window: '2025-10-01 through 2025-12-31'
+- Retained producer statement 4 (L7): - Record type: 'RETROSPECTIVE'
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 12 STAGE_HANDOFF.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/STAGE_HANDOFF.md`
+- Immutable inspected blob: `a55c074cae8f0c8a3528c0d30f7985cf4ce82d5b`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # Stage H Handoff — 2025-Q4
+- Indexed structural role: ## Preserved findings; historical period stays 2025-Q4
+- Retained producer statement 1 (L4): - Citation/provenance relationships improve inspectability without proving truth.
+- Retained producer statement 2 (L5): - Source-management provenance must remain separate from build/release provenance.
+- Retained producer statement 3 (L6): - Broader converter input support increases source-format/parser identity requirements.
+- Retained producer statement 4 (L9): - How do 2026-era attestations and transparency formats handle AI/agent-generated artifacts?
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+### 13 STAGE_SYNTHESIS.md
+- Source path: `maintenance/frontier-research/stage-h-2025-q4/STAGE_SYNTHESIS.md`
+- Immutable inspected blob: `b2abae7cfbbd513e93ad0dbcb013547d5e7b9d82`; read against main `cf90d8b120dc`
+- Original title and evidence authority: # Frontier Research Stage Synthesis — Stage H / 2025-Q4
+- Indexed structural role: ## Identity; historical period stays 2025-Q4
+- Retained producer statement 1 (L4): - Window: '2025-10-01 through 2025-12-31'
+- Retained producer statement 2 (L5): - Coverage: 'SEARCH_BOUNDED'
+- Retained producer statement 3 (L6): - Synthesis date: '2026-09-27'
+- Retained producer statement 4 (L7): - Status: 'COMPLETE'
+- A1 artifact disposition: NO_FOLLOW_UP to native bytes; evidence preserved, no fresh 2026-10-16 producer run inferred
+- Source-to-month gate: original Stage-H identity can support lineage/relationship only; original research period and external source authority are not upgraded
+
+### A1 cross-file adjudication
+- SOURCE_OBJECT_REGISTER determines H-S1/H-S2/H-S3 identity; EVIDENCE_CHART documents separate support/unsupported claims, not a fourth original source
+- H1/H2/H3 are complementary CycloneDX / SLSA / Pandoc research propositions; they are not three independent tests of one implementation
+- October/November/December reconstruction files carry 2025 original windows; they cannot be promoted to October 2026 event timestamps
+- RESEARCH_REVIEW and STAGE_SYNTHESIS provide interpretation, while CONTRIBUTOR_STATEMENT and STAGE_HANDOFF govern attribution and succession boundaries
+- STAGE_BRIEF owns selection and scope, not an authorization to implement or merge an unproduced Stage-I result
+- No confirmed native artifact defect required original-content correction; all 13 source files deliberately unchanged
+- A1 month coverage judged complete for this 13-file Stage H input set as visible on inspected main, with no invented new staged output
+- Handoff to A2: inherit this 13-file identity and evaluate 2026-10-16 current main/Stage router without rewriting A1's Oct 15 cutoff
+- Outcome: A1_COVERAGE_RECORDED / NO_NATIVE_SOURCE_REWRITE / MONTH_OPEN / PENDING_REVIEW_AND_MERGE
