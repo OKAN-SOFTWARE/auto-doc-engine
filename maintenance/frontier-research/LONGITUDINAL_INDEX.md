@@ -6,7 +6,7 @@
 - **Specification:** `2026-09-19-first-batch`
 - **Index coverage:** `Stage A / 2024-Q1` + `Stage B / 2024-Q2` + `Stage C / 2024-Q3` + `Stage D / 2024-Q4` + `Stage E / 2025-Q1` + `Stage F / 2025-Q2` + `Stage G / 2025-Q3` + `Stage H / 2025-Q4`
 - **Stage registry / identity updated:** `2026-10-04`
-- **Current maintenance relation through:** `2026-10-10`
+- **Current maintenance relation through:** `2026-10-16`
 
 ## 1. Purpose and boundary
 
@@ -5884,3 +5884,13 @@ STAGE_IDENTITY_DATE_2026_10_08
 - No new Stage-I result; handoff open questions remain QUESTIONS_PENDING_NATIVE_STAGE, not generated source records
 - A2 one-month owner retains reference to merged A1 without rewriting that cutoff, all 13 original blobs unchanged
 - Outcome: A2_OCTOBER_LINEAGE_OPEN / STAGE_H_HISTORICAL_COMPLETE / 13_NATIVE_HISTORICAL_INPUTS / STAGE_I_NOT_EVIDENCED
+
+
+## 2026-10-17 dated index-header reconciliation
+
+- Issue: the mutable current-relation header still read `2026-10-10` after October 16 A1/A2 maintenance was merged.
+- Verified current relation: October 16 A2 maintenance PR #131, based on merged A1 PR #130, appended Stage-H source-to-handoff relationships to this canonical longitudinal index.
+- Correction: advance only the current-relation header to `2026-10-16`; keep `Stage registry / identity updated: 2026-10-04` unchanged as a separate Stage registry identity.
+- Original Stage-H source files, stage registry, Stage-H historical completion, and every prior longitudinal block retain their original bytes and time attribution.
+- October 17 is this correction's observation date, not a Stage-I execution date, Stage-H rerun, source recertification, test pass, or new independent research window.
+- Status: CURRENT_HEADER_RECONCILED / OCTOBER_RELATION_OPEN / STAGE_I_NOT_EVIDENCED.
