@@ -5894,3 +5894,130 @@ STAGE_IDENTITY_DATE_2026_10_08
 - Original Stage-H source files, stage registry, Stage-H historical completion, and every prior longitudinal block retain their original bytes and time attribution.
 - October 17 is this correction's observation date, not a Stage-I execution date, Stage-H rerun, source recertification, test pass, or new independent research window.
 - Status: CURRENT_HEADER_RECONCILED / OCTOBER_RELATION_OPEN / STAGE_I_NOT_EVIDENCED.
+
+## 2026-10-17 A1 | Auto-Doc Stage-H 13-artifact ownership and original evidence boundary
+
+- Exact latest current main `45ca79fa0bc9ac1a87c557c26f4373f926b4d898`; cutoff October 01–16; original Stage-H research assigned to 2025-Q4
+- A1 covers all thirteen Stage-H source/support/review/handoff objects and current October longitudinal owner
+- October 16 A1/A2 relation and October 17 header correction are historical maintenance delivery, not separate Stage H native producer output
+- Stage H result COMPLETE/SEARCH_BOUNDED means an internally completed retrospective research stage; independent runtime re-execution is not demonstrated
+- Current Stage I is NOT_EVIDENCED; do not infer next stage from Stage H handoff
+- MANIFEST, lineage and provenance attestations represent artifact identities, not scientific verification or side effects
+- October owner remains OPEN, no duplicate Stage I files created or research phase transition declared
+
+### Individual artifact dispositions
+#### CONTRIBUTOR_STATEMENT.md | Contributor identity
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/CONTRIBUTOR_STATEMENT.md`
+- Immutable current blob: `170e6322fd5c544ea5c6d44401a019f764a69b27`; 430 UTF-8 source bytes
+- Owning scientific/documentary purpose: attribution and authorship statement
+- Explicit evidence boundary: Claim credit is not independent source or code-execution authority
+- Preservation decision: Attribute only the named scope; never infer independent research replay
+- October relevance: Provenance source for Stage-H handoff, not a result ledger
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `ATTRIBUTION` / current-month relationship review only
+#### EVIDENCE_CHART.md | Evidence chart
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/EVIDENCE_CHART.md`
+- Immutable current blob: `ab31a909f5bd4df72cfc2ece7b419d03739aa757`; 842 UTF-8 source bytes
+- Owning scientific/documentary purpose: claim-to-source and counterevidence routing
+- Explicit evidence boundary: A populated chart does not establish source truth or independent reproducibility
+- Preservation decision: Keep support level distinct from source identity
+- October relevance: Cross-check H1/H2/H3 source records against registered objects
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `EVIDENCE_CHART` / current-month relationship review only
+#### H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md | CycloneDX 1.7
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md`
+- Immutable current blob: `eba05037fdda0a36f9bb5ae4e1a80ee88bb140d3`; 1317 UTF-8 source bytes
+- Owning scientific/documentary purpose: citation and BOM provenance relationships
+- Explicit evidence boundary: BOM metadata and citation links cannot verify scientific claims
+- Preservation decision: CycloneDX 1.7 object identity must stay version-bounded
+- October relevance: Evidence carrier may improve attribution without semantic certification
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `SOURCE_EXPERIMENT_RECORD` / current-month relationship review only
+#### H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md | SLSA v1.2
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md`
+- Immutable current blob: `ee01cde19cf95eb5cad564d1a35a4c06ef058c99`; 1110 UTF-8 source bytes
+- Owning scientific/documentary purpose: Source Track and policy provenance
+- Explicit evidence boundary: Source attestation is not automatically a downstream build or runtime attestation
+- Preservation decision: Keep source-track identity separate from artifact execution
+- October relevance: Admission limited to documented producer/review provenance
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `SOURCE_EXPERIMENT_RECORD` / current-month relationship review only
+#### H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md | Pandoc 3.8.3
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md`
+- Immutable current blob: `c6924b9a39410041ff102c8d6d60d67b83c2bc7f`; 1187 UTF-8 source bytes
+- Owning scientific/documentary purpose: multi-format parser and transformation identity
+- Explicit evidence boundary: Supported formats do not prove a faithful transformation for arbitrary inputs
+- Preservation decision: Version-specific parser/input claims, no live export replay
+- October relevance: Output hash comparison does not certify semantic equivalence
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `SOURCE_EXPERIMENT_RECORD` / current-month relationship review only
+#### MONTH_2025_10_RECONSTRUCTION.md | 2025-10 reconstruction
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_10_RECONSTRUCTION.md`
+- Immutable current blob: `05f7e460d180036a5b1a257fb02b1b493f8e1acf`; 532 UTF-8 source bytes
+- Owning scientific/documentary purpose: October historical object context
+- Explicit evidence boundary: Retrospective month reconstruction is not a contemporaneous Oct2025 run
+- Preservation decision: Select October CycloneDX event without inventing downstream effects
+- October relevance: Prior event time and present review time remain separate
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `HISTORICAL_MONTH_RECONSTRUCTION` / current-month relationship review only
+#### MONTH_2025_11_RECONSTRUCTION.md | 2025-11 reconstruction
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_11_RECONSTRUCTION.md`
+- Immutable current blob: `0b7b25d20dac479e483ad6e4582afac147efcaac`; 531 UTF-8 source bytes
+- Owning scientific/documentary purpose: November historical object context
+- Explicit evidence boundary: SLSA v1.2 Source Track remains version-specific
+- Preservation decision: Retrospective narrative does not assert Nov2025 local adoption
+- October relevance: Keep publisher change separate from local implementation
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `HISTORICAL_MONTH_RECONSTRUCTION` / current-month relationship review only
+#### MONTH_2025_12_RECONSTRUCTION.md | 2025-12 reconstruction
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_12_RECONSTRUCTION.md`
+- Immutable current blob: `2f157716ee454abf7c6632a9af9287ebb29e1fac`; 487 UTF-8 source bytes
+- Owning scientific/documentary purpose: December historical source selection
+- Explicit evidence boundary: Pandoc 3.8.3 capability is documentation-level until tested on inputs
+- Preservation decision: A month with selected source is not live editor/export validation
+- October relevance: Date assignment does not by itself certify release-day behavior
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `HISTORICAL_MONTH_RECONSTRUCTION` / current-month relationship review only
+#### RESEARCH_REVIEW.md | Research review
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/RESEARCH_REVIEW.md`
+- Immutable current blob: `a2cc701151621459b83bc24f577703ac11a8750f`; 1014 UTF-8 source bytes
+- Owning scientific/documentary purpose: counterevidence and claim-bounded validation
+- Explicit evidence boundary: Review completion does not mean external sources independently rerun
+- Preservation decision: Limits and unresolved interfaces remain open
+- October relevance: No unverified scientific outcome upgraded
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `REVIEW` / current-month relationship review only
+#### SOURCE_OBJECT_REGISTER.md | Source object register
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/SOURCE_OBJECT_REGISTER.md`
+- Immutable current blob: `9718b9e8323d2d0cb86f48f7ea32d1dcdaaa6cdc`; 680 UTF-8 source bytes
+- Owning scientific/documentary purpose: publisher/object/version uniqueness
+- Explicit evidence boundary: Register admission is identity, not truth acceptance
+- Preservation decision: CycloneDX/SLSA/Pandoc remain three different publisher classes
+- October relevance: Source counts do not become confirmation denominators
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `SOURCE_REGISTER` / current-month relationship review only
+#### STAGE_BRIEF.md | Stage brief
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/STAGE_BRIEF.md`
+- Immutable current blob: `971e2bc61ed9d18d7fe8b1c351ece8a631609a9f`; 1610 UTF-8 source bytes
+- Owning scientific/documentary purpose: Stage H 2025-Q4 scope, object selection and search bounds
+- Explicit evidence boundary: Stage COMPLETE is research workflow completion only
+- Preservation decision: Evidence window is retrospective, not a new Oct2026 production run
+- October relevance: This stage does not authorize Stage I synthetic creation
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `BRIEF` / current-month relationship review only
+#### STAGE_HANDOFF.md | Stage handoff
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/STAGE_HANDOFF.md`
+- Immutable current blob: `a55c074cae8f0c8a3528c0d30f7985cf4ce82d5b`; 778 UTF-8 source bytes
+- Owning scientific/documentary purpose: questions for next-stage evidence and provenance
+- Explicit evidence boundary: Handoff questions are not successor-stage completed tasks
+- Preservation decision: Source-management and build/release provenance remain distinct
+- October relevance: Receiving stage retains unknown until separately executed
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `HANDOFF` / current-month relationship review only
+#### STAGE_SYNTHESIS.md | Stage synthesis
+- Repository object: `maintenance/frontier-research/stage-h-2025-q4/STAGE_SYNTHESIS.md`
+- Immutable current blob: `b2abae7cfbbd513e93ad0dbcb013547d5e7b9d82`; 1763 UTF-8 source bytes
+- Owning scientific/documentary purpose: retrospective synthesis, preceding stage delta
+- Explicit evidence boundary: Synthesis is not local renderer/runtime conformance
+- Preservation decision: Bounded conclusions cannot be universally expanded
+- October relevance: No fresh Oct2026 Stage H replay is evidenced
+- A1 disposition: `NO_SOURCE_BODY_REWRITE` / `SYNTHESIS` / current-month relationship review only
+
+### Chronology and cross-object acceptance
+- H1 CycloneDX citation/BOM → object register and evidence chart: lineage recorded, external claim correctness remains bounded
+- H2 SLSA Source Track → contributor/source attribution: does not prove build provenance or a runtime implementation
+- H3 Pandoc format breadth → artifact transform claims: unsupported semantic-equivalence and fidelity remain UNKNOWN
+- October/November/December 2025 reconstructions are separate event-time slices and do not create new 2026 execution windows
+- Review and synthesis should reference all three research parts, but cannot automatically confer test execution or publication compliance
+- Handoff open questions stay OPEN; no next-stage receipt or source recertification is manufactured
+- Original thirteen Stage-H files deliberately untouched; only canonical longitudinal owner receives this decision coverage
+- No new source network check, publisher validator, Pandoc conversion or complete repository tests were executed by this maintenance pass
+- A1 state STAGE_H_THIRTEEN_IDENTITIES_REVIEWED / RESEARCH_COMPLETE_HISTORICAL / STAGE_I_NOT_OBSERVED / OCTOBER_OPEN
