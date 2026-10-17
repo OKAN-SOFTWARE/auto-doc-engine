@@ -6021,3 +6021,129 @@ STAGE_IDENTITY_DATE_2026_10_08
 - Original thirteen Stage-H files deliberately untouched; only canonical longitudinal owner receives this decision coverage
 - No new source network check, publisher validator, Pandoc conversion or complete repository tests were executed by this maintenance pass
 - A1 state STAGE_H_THIRTEEN_IDENTITIES_REVIEWED / RESEARCH_COMPLETE_HISTORICAL / STAGE_I_NOT_OBSERVED / OCTOBER_OPEN
+
+## 2026-10-17 A2 | Auto-Doc Stage H source-to-project longitudinal October relation
+
+- Latest main after ten A1 merges `6de0ba9640a197b3acd01384d8b722fbceb77c63`; current month coverage 2026-10-01..17, research event time Stage-H 2025-Q4
+- Inherit all thirteen exact-blob A1 source roles and named original absence claims; A2 relates them across artifact owners instead of adding a parallel monthly file
+- October 17 current-header correction updates relation-cutoff chronology only; Stage-H native research event does not recur simply because the index was revised
+- The preceding Oct16 A1/A2 research index is a maintenance snapshot, not a fresh 2025-Q4 benchmark/publisher source
+- Scientific object identities remain three independent domains: no pooled PASS, no universal quality score and no unbounded production claim
+- Native Stage I owner, source and executed result: NOT_EVIDENCED at this inspected cutoff; handoff questions remain unresolved
+- October natural final NOT_DUE, index remains OPEN; A2 is an independent current-month relation review, not a native monthly or next-stage production owner
+
+### Thirteen-source A1→A2 evidence transfer and negative gates
+#### CONTRIBUTOR_STATEMENT.md | ATTRIBUTION
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/CONTRIBUTOR_STATEMENT.md`
+- Git blob on A1-merged fresh main: `170e6322fd5c544ea5c6d44401a019f764a69b27`; present file size 430 bytes
+- Distinct scoped research meaning: source attribution ≠ validity
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Documentary relationship is a lineage link, not independent proof of its outgoing claims
+- A2 admissibility: `ATTRIBUTION_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### EVIDENCE_CHART.md | EVIDENCE_LINKAGE
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/EVIDENCE_CHART.md`
+- Git blob on A1-merged fresh main: `ab31a909f5bd4df72cfc2ece7b419d03739aa757`; present file size 842 bytes
+- Distinct scoped research meaning: claim/evidence citation-routing ≠ reproducibility
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Documentary relationship is a lineage link, not independent proof of its outgoing claims
+- A2 admissibility: `EVIDENCE_LINKAGE_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md | PRIMARY_OBJECT_1
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md`
+- Git blob on A1-merged fresh main: `eba05037fdda0a36f9bb5ae4e1a80ee88bb140d3`; present file size 1317 bytes
+- Distinct scoped research meaning: CycloneDX 1.7 BOM citing identities ≠ semantic correctness
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Transfer may inform a present-day design constraint, but must not be counted as newly executed tests or a verified deployment
+- A2 admissibility: `PRIMARY_OBJECT_1_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md | PRIMARY_OBJECT_2
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md`
+- Git blob on A1-merged fresh main: `ee01cde19cf95eb5cad564d1a35a4c06ef058c99`; present file size 1110 bytes
+- Distinct scoped research meaning: SLSA 1.2 source-track policy evidence ≠ build attestation
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Transfer may inform a present-day design constraint, but must not be counted as newly executed tests or a verified deployment
+- A2 admissibility: `PRIMARY_OBJECT_2_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md | PRIMARY_OBJECT_3
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md`
+- Git blob on A1-merged fresh main: `c6924b9a39410041ff102c8d6d60d67b83c2bc7f`; present file size 1187 bytes
+- Distinct scoped research meaning: Pandoc 3.8.3 input-format coverage ≠ semantic fidelity
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Transfer may inform a present-day design constraint, but must not be counted as newly executed tests or a verified deployment
+- A2 admissibility: `PRIMARY_OBJECT_3_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### MONTH_2025_10_RECONSTRUCTION.md | HISTORICAL_MONTH
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_10_RECONSTRUCTION.md`
+- Git blob on A1-merged fresh main: `05f7e460d180036a5b1a257fb02b1b493f8e1acf`; present file size 532 bytes
+- Distinct scoped research meaning: October 2025 CycloneDX selected event historical only
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Source event time is 2025; October 2026 date is review time and cannot be used to re-date the source outcome
+- A2 admissibility: `HISTORICAL_MONTH_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### MONTH_2025_11_RECONSTRUCTION.md | HISTORICAL_MONTH
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_11_RECONSTRUCTION.md`
+- Git blob on A1-merged fresh main: `0b7b25d20dac479e483ad6e4582afac147efcaac`; present file size 531 bytes
+- Distinct scoped research meaning: November 2025 SLSA event retrospective only
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Source event time is 2025; October 2026 date is review time and cannot be used to re-date the source outcome
+- A2 admissibility: `HISTORICAL_MONTH_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### MONTH_2025_12_RECONSTRUCTION.md | HISTORICAL_MONTH
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_12_RECONSTRUCTION.md`
+- Git blob on A1-merged fresh main: `2f157716ee454abf7c6632a9af9287ebb29e1fac`; present file size 487 bytes
+- Distinct scoped research meaning: December 2025 Pandoc source-event retrospective only
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Source event time is 2025; October 2026 date is review time and cannot be used to re-date the source outcome
+- A2 admissibility: `HISTORICAL_MONTH_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### RESEARCH_REVIEW.md | REVIEW
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/RESEARCH_REVIEW.md`
+- Git blob on A1-merged fresh main: `a2cc701151621459b83bc24f577703ac11a8750f`; present file size 1014 bytes
+- Distinct scoped research meaning: source review preserves counterevidence without fresh checks
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Documentary relationship is a lineage link, not independent proof of its outgoing claims
+- A2 admissibility: `REVIEW_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### SOURCE_OBJECT_REGISTER.md | OBJECT_IDENTITY
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/SOURCE_OBJECT_REGISTER.md`
+- Git blob on A1-merged fresh main: `9718b9e8323d2d0cb86f48f7ea32d1dcdaaa6cdc`; present file size 680 bytes
+- Distinct scoped research meaning: three research objects' identities without certification
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Documentary relationship is a lineage link, not independent proof of its outgoing claims
+- A2 admissibility: `OBJECT_IDENTITY_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### STAGE_BRIEF.md | RESEARCH_CONTRACT
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/STAGE_BRIEF.md`
+- Git blob on A1-merged fresh main: `971e2bc61ed9d18d7fe8b1c351ece8a631609a9f`; present file size 1610 bytes
+- Distinct scoped research meaning: Stage H SEARCH_BOUNDED COMPLETE, not runtime promotion
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Documentary relationship is a lineage link, not independent proof of its outgoing claims
+- A2 admissibility: `RESEARCH_CONTRACT_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### STAGE_HANDOFF.md | OPEN_STAGE_GATE
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/STAGE_HANDOFF.md`
+- Git blob on A1-merged fresh main: `a55c074cae8f0c8a3528c0d30f7985cf4ce82d5b`; present file size 778 bytes
+- Distinct scoped research meaning: handoff questions have no successor Stage-I receipt
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Unresolved questions are independent requirements requiring explicit next-stage original producer evidence
+- A2 admissibility: `OPEN_STAGE_GATE_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+#### STAGE_SYNTHESIS.md | HISTORICAL_SYNTHESIS
+- Exact Stage-H historical artifact path: `maintenance/frontier-research/stage-h-2025-q4/STAGE_SYNTHESIS.md`
+- Git blob on A1-merged fresh main: `b2abae7cfbbd513e93ad0dbcb013547d5e7b9d82`; present file size 1763 bytes
+- Distinct scoped research meaning: synthesis is bounded research summary, not tested deployment
+- A1 inheritance: preserve original file and original event-time; do not alter upstream content under A2
+- Project-level interpretation: Month-level conclusions inherit exact primary object and counterevidence restrictions
+- A2 admissibility: `HISTORICAL_SYNTHESIS_BOUNDED`; no new direct experiment, certification, independent source or runtime measurement
+- Forward decision: keep this object linked to its own register/review or handoff without changing any producer or source timestamp
+
+### Cross-source coherence and validation standards
+- CycloneDX citation/BOM object describes documentation-link lineage; correctness of claims still needs separately testable evidence
+- SLSA Source Track is source provenance; runtime and build provenance need separate evidence chain and cannot be inferred
+- Pandoc multi-input transformation boundary requires exact input/output fixture and semantic fidelity receipt, which this month did not execute
+- File conversion, source claims, BOM relations and attestations have different validation dimensions and cannot share one PASS
+- Prior 2025-10/11/12 selections remain retrospective; no new October 2026 selected source claimed
+- Existing three-year archival and Stage H source objects remain unchanged; A2 writes only to existing longitudinal owner
+- No fresh publisher web fetch, local package execution, benchmarking, figure render or full GitHub Actions check conducted by this independent maintenance
+- Final A2 month OPEN; origin stage historically COMPLETE/SEARCH_BOUNDED, future Stage I unobserved, not backfilled
