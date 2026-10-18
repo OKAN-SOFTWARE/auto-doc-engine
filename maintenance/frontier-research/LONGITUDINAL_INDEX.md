@@ -6357,3 +6357,172 @@ STAGE_IDENTITY_DATE_2026_10_08
 - This A1 enumerates current-main file identities and PR data; it does not rerun tests, external sources, renderers or scientific evaluation
 - Total Stage source files enumerated=104; total UTC-created Oct01–17 PRs=53; identical-blob predecessor anchors=13
 - A1 current status: EIGHT_STAGE_RETROSPECTIVE_INVENTORY / OWNER_DATE_RECONCILED / FUTURE_STAGE_NOT_EVIDENCED / HISTORICAL_CONTENT_UNCHANGED / MONTH_OPEN
+
+## 2026-10-18 A2 | Auto-Doc full October maintenance and Stage-H source-to-project provenance
+- Exact A1-merged main e26bbfd147323edb2743840b1bb8c2e5c0df8e19; old index 164198d03572641fe697a7353c75f6213bac48c9; Stage-H original assignment remains 2025-Q4
+- Current index maintenance relation is now through 2026-10-18, while Stage registry date and historical source objects retain their own dates
+- Distinguish source registration, generated document identity, claim support, lineage, exported artifact and deployment/test acceptance
+- No original Oct18 Stage-I producer PR is evidenced by the inspected current tree; nothing in this A2 invents Stage I or a new experimental window
+- This A2 is independent monthly evidence maintenance, not a native Frontier Research delivery or external publisher verification
+
+### Eighteen-date original maintenance/Stage contract interpretation
+#### 2026-10-01 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=7; PR IDs=#77, #78, #79, #80, #81, #82, #83; source logical-date classification requires underlying file evidence
+- 2026-10-01 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-01 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-01 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-01 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-02 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=3; PR IDs=#84, #85, #86; source logical-date classification requires underlying file evidence
+- 2026-10-02 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-02 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-02 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-02 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-03 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=3; PR IDs=#87, #88, #89; source logical-date classification requires underlying file evidence
+- 2026-10-03 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-03 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-03 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-03 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-04 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=5; PR IDs=#90, #91, #92, #93, #94; source logical-date classification requires underlying file evidence
+- 2026-10-04 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-04 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-04 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-04 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-05 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=3; PR IDs=#95, #96, #97; source logical-date classification requires underlying file evidence
+- 2026-10-05 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-05 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-05 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-05 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-06 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=2; PR IDs=#98, #99; source logical-date classification requires underlying file evidence
+- 2026-10-06 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-06 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-06 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-06 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-07 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=3; PR IDs=#100, #101, #102; source logical-date classification requires underlying file evidence
+- 2026-10-07 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-07 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-07 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-07 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-08 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=3; PR IDs=#103, #104, #105; source logical-date classification requires underlying file evidence
+- 2026-10-08 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-08 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-08 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-08 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-09 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=2; PR IDs=#106, #107; source logical-date classification requires underlying file evidence
+- 2026-10-09 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-09 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-09 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-09 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-10 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=4; PR IDs=#108, #109, #110, #111; source logical-date classification requires underlying file evidence
+- 2026-10-10 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-10 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-10 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-10 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-11 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=3; PR IDs=#112, #113, #114; source logical-date classification requires underlying file evidence
+- 2026-10-11 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-11 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-11 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-11 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-12 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=2; PR IDs=#115, #116; source logical-date classification requires underlying file evidence
+- 2026-10-12 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-12 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-12 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-12 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-13 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=4; PR IDs=#117, #118, #119, #120; source logical-date classification requires underlying file evidence
+- 2026-10-13 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-13 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-13 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-13 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-14 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=5; PR IDs=#121, #122, #123, #124, #125; source logical-date classification requires underlying file evidence
+- 2026-10-14 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-14 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-14 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-14 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-15 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=4; PR IDs=#126, #127, #128, #129; source logical-date classification requires underlying file evidence
+- 2026-10-15 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-15 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-15 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-15 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-16 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=2; PR IDs=#130, #131; source logical-date classification requires underlying file evidence
+- 2026-10-16 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-16 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-16 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-16 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-17 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=3; PR IDs=#132, #133, #134; source logical-date classification requires underlying file evidence
+- 2026-10-17 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-17 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-17 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-17 relation: PREVIOUS_STAGE_HISTORY_AND_MAINTENANCE_PRESERVED; current-maintainer source reread/tests NOT_EXECUTED
+#### 2026-10-18 | landed repo maintenance versus original Stage producer
+- GitHub PR merge-custody=2; PR IDs=#135, #136; source logical-date classification requires underlying file evidence
+- 2026-10-18 native Stage classification: Stage H source window is 2025-Q4, not an October 2026 native Daily; no new Stage I file inferred
+- 2026-10-18 evidence transfer: provenance links, citation/BOM and conversion output depend on exact source, parser/revision and target artifact identities
+- 2026-10-18 negative gate: paper URL, SBOM record, or document hash does not establish paper truth, runtime behavior or downstream consumer approval
+- 2026-10-18 relation: OCT18_CURRENT_RELATION_WITH_NO_NEW_STAGE; current-maintainer source reread/tests NOT_EXECUTED
+
+### Stage H thirteen native historical evidence objects (exact-current-main identity)
+- CONTRIBUTOR_STATEMENT.md: `maintenance/frontier-research/stage-h-2025-q4/CONTRIBUTOR_STATEMENT.md` @ 170e6322fd5c544ea5c6d44401a019f764a69b27 (430 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- EVIDENCE_CHART.md: `maintenance/frontier-research/stage-h-2025-q4/EVIDENCE_CHART.md` @ ab31a909f5bd4df72cfc2ece7b419d03739aa757 (842 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md: `maintenance/frontier-research/stage-h-2025-q4/H1_CYCLONEDX17_CITATION_AND_PROVENANCE_RELATIONSHIPS.md` @ eba05037fdda0a36f9bb5ae4e1a80ee88bb140d3 (1317 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md: `maintenance/frontier-research/stage-h-2025-q4/H2_SLSA12_SOURCE_TRACK_AND_POLICY_EVIDENCE.md` @ ee01cde19cf95eb5cad564d1a35a4c06ef058c99 (1110 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md: `maintenance/frontier-research/stage-h-2025-q4/H3_PANDOC383_MULTI_INPUT_TRANSFORMATION_IDENTITY.md` @ c6924b9a39410041ff102c8d6d60d67b83c2bc7f (1187 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- MONTH_2025_10_RECONSTRUCTION.md: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_10_RECONSTRUCTION.md` @ 05f7e460d180036a5b1a257fb02b1b493f8e1acf (532 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- MONTH_2025_11_RECONSTRUCTION.md: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_11_RECONSTRUCTION.md` @ 0b7b25d20dac479e483ad6e4582afac147efcaac (531 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- MONTH_2025_12_RECONSTRUCTION.md: `maintenance/frontier-research/stage-h-2025-q4/MONTH_2025_12_RECONSTRUCTION.md` @ 2f157716ee454abf7c6632a9af9287ebb29e1fac (487 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- RESEARCH_REVIEW.md: `maintenance/frontier-research/stage-h-2025-q4/RESEARCH_REVIEW.md` @ a2cc701151621459b83bc24f577703ac11a8750f (1014 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- SOURCE_OBJECT_REGISTER.md: `maintenance/frontier-research/stage-h-2025-q4/SOURCE_OBJECT_REGISTER.md` @ 9718b9e8323d2d0cb86f48f7ea32d1dcdaaa6cdc (680 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- STAGE_BRIEF.md: `maintenance/frontier-research/stage-h-2025-q4/STAGE_BRIEF.md` @ 971e2bc61ed9d18d7fe8b1c351ece8a631609a9f (1610 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- STAGE_HANDOFF.md: `maintenance/frontier-research/stage-h-2025-q4/STAGE_HANDOFF.md` @ a55c074cae8f0c8a3528c0d30f7985cf4ce82d5b (778 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+- STAGE_SYNTHESIS.md: `maintenance/frontier-research/stage-h-2025-q4/STAGE_SYNTHESIS.md` @ b2abae7cfbbd513e93ad0dbcb013547d5e7b9d82 (1763 bytes), original research window 2025-Q4
+  - A2 disposition: exact artifact identity inherited from A1; recorded source-to-claim role remains separate from actual tool execution; no rewritten Stage-H producer
+  - Acceptance boundary: reviewer may cite its bounded provenance/correction question only; it is not independent certification of publication, reproducibility or reader adoption
+
+### Cross-source checks, boundary corrections and current state
+- Stage H retains source-version distinctions for citation/BOM object, SLSA source track and document conversion; these artifacts cannot share one undifferentiated PASS
+- Pandoc or parser input/output requires a concrete fixture, environment and round-trip receipt before semantic preservation can be claimed
+- The Oct17 merged A2 was already in the original index, and a pre-A1 header correction aligned relation-through date to Oct17; this A2 advances it to Oct18 without changing Stage registry identity
+- Current A1 verified original historical stage blobs and appended per-artifact decisions, not external paper truth
+- No live publisher inspection, package execution, CI replay, benchmark, renderer output, runtime safety validation or third-party test performed by this A2
+- Current producer window: Stage H historically complete under SEARCH_BOUNDED; Stage I original execution remains NOT_EVIDENCED
+- Source information transferred through the month owner creates zero additional independent original sources or experiment runs
+- All earlier source, Stage, A1 and dated repairs remain unchanged; append-only month relation with fresh SHA
+- A2 decision: OCT1_TO18_PROVENANCE_RELATION / STAGE_H_SEARCH_BOUNDED / STAGE_I_NOT_EVIDENCED / MONTH_OPEN
