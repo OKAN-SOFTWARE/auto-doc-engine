@@ -96,7 +96,9 @@ It is a change detector, not automatic patching, conflict resolution, ownership 
 
 `core/cross_ref.py` indexes local document/heading references and exposes dangling/near-miss/recurring diagnostics
 
-Near-miss suggestions are lexical hints only
+Near-miss suggestions are lexical hints only.
+
+As of the 2026-10-19 implementation boundary, `EntanglementIndex.build` resolves each discovered Markdown input before reading content and rejects a discovered file whose resolved path falls outside `docs_dir`. This keeps configured document-set scans bounded for stable filesystems. It does not defend against concurrent link replacement/TOCTOU or imply that indexed documents, references, or candidate suggestions are trustworthy.
 
 `core/frontmatter.py` provides bounded research metadata and declarative process disclosure
 
