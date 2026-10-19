@@ -68,7 +68,7 @@ Real external standards and observed runtime/software versions remain valid prov
 | `core/renderer.py` | Implemented | Jinja2 rendering from JSON/CSV/YAML/YML; no integrated SQLite/network adapter |
 | `core/ast_engine.py` | Implemented | typed normalized Markdown structure; not byte-preserving |
 | `core/incremental.py` | Implemented | add/modify/delete/unchanged structural evidence; not a merge engine |
-| `core/cross_ref.py` | Implemented | local Markdown graph and dangling/near-miss diagnostics |
+| `core/cross_ref.py` | Implemented | local Markdown graph and dangling/near-miss diagnostics; rejects Markdown inputs resolving outside the configured scan root |
 | `core/frontmatter.py` | Implemented | bounded research metadata and declarative process disclosure |
 | `core/readability.py` | Implemented | descriptive heuristics only |
 | `core/doctor.py` | Implemented | document-set diagnostics and local exit status |
