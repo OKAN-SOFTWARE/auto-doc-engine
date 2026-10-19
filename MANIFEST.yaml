@@ -92,6 +92,22 @@ cross_repo_handoff:
   downstream_communication_transfer: sci-render-kit/communication-transfer
   direct_runtime_coupling: false
 
+tool_adapter:
+  profile: auto-doc-engine/tool-adapter
+  registry: agent_tools.py
+  cli: tool_cli.py
+  test: tests/test_tool_cli.py
+  contract: docs/02-examples-and-contracts/TOOL_CLI_AGENT.md
+  tools: [document_inspect, artifact_lineage]
+  argument_schema: JSON_Schema_object_allowlist
+  transport: local_synchronous_function_call
+  presentations: [json, text_tty, offline_html]
+  automatic_remote_model_call: false
+  arbitrary_shell_execution: false
+  automatic_write_to_repository: false
+  mcp_server_conformance_claim: false
+  scientific_validity_claim: false
+
 integrated_modules:
   renderer:
     path: core/renderer.py

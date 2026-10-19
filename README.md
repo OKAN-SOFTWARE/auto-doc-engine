@@ -61,6 +61,19 @@ Project-owned identifiers intentionally have no decorative `@1/@2` or `/v1` suff
 
 Real external standards and observed runtime/software versions remain valid provenance, including RO-Crate 1.3, SARIF 2.1.0 + Approved Errata 01, and CFF 1.2.0
 
+## Tool / CLI / Agent integration (2026-10-19)
+
+The optional `agent_tools.py` adapter exposes `document_inspect` and `artifact_lineage` through allowlisted JSON-Schema function definitions. `tool_cli.py` provides machine-clean JSON, a consistent styled terminal view, and accessible offline HTML reports.
+
+```bash
+python3 tool_cli.py list
+python3 tool_cli.py describe document_inspect
+python3 tool_cli.py list --format html --output output/tool-catalog.html
+python3 -m unittest tests.test_tool_cli -v
+```
+
+See [Tool / CLI / Agent usage and UI contract](docs/02-examples-and-contracts/TOOL_CLI_AGENT.md). No built-in model calls, automatic merges, web server or MCP conformance are claimed. Domain findings and independent scientific validity remain distinct.
+
 ## Capability map
 
 | Capability | Status | Boundary |

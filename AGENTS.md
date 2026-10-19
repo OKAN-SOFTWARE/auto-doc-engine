@@ -284,6 +284,12 @@ auto-doc-engine/artifact-record
 
 These are optional references/handoffs, not direct imports or inherited scientific validity.
 
+## Optional Tool / CLI / Agent adapter
+
+`agent_tools.py` owns the local allowlist, per-tool JSON argument contract and structured execution envelopes. `tool_cli.py` owns terminal/JSON/static-HTML presentation and explicit CLI exit semantics; neither file may bypass the existing core behavior or imply independent research verification.
+
+Refer to [TOOL_CLI_AGENT.md](docs/02-examples-and-contracts/TOOL_CLI_AGENT.md) for arguments, offline UI design and agent use. This is not a remote tool host, MCP server, model provider integration, authorization sandbox, CI gate or autonomous agent. A local tool's successful invocation is not acceptance of domain findings. New tool names must be explicitly registered, tested and documented; arbitrary dynamic import and shell execution are prohibited.
+
 ## Delivery boundary
 
 For a confirmed maintenance repair:
