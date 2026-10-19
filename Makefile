@@ -40,4 +40,4 @@ test-sarif:
 	python -m unittest tests.test_sarif -v
 
 test-tools:
-	python3 -m unittest tests.test_tool_cli -v
+	python3 -m unittest tests.test_tool_cli tests.test_agent_plan -v
