@@ -80,6 +80,12 @@ Real external standards and observed runtime/software versions remain valid prov
 | `core/maintenance_cadence.py` | Implemented maintenance scanner | read-only local daily/weekly/monthly structural maintenance evidence |
 | experimental modules | Experimental | bounded standalone references, not canonical pipeline |
 
+### Cross-reference scan boundary (2026-10-19)
+
+`EntanglementIndex.build(docs_dir)` indexes only Markdown inputs whose resolved paths stay inside the configured `docs_dir` at scan time. An external `.md` symlink causes an explicit `ValueError` before any document content is indexed; in-root links and ordinary Markdown references retain their previous behavior. Run the targeted regression with `python -m unittest tests.test_cross_ref -v`.
+
+This checks one filesystem input boundary, **not** arbitrary input isolation against concurrent filesystem mutation, symlink TOCTOU, remote link resolution, or document semantic validity. The index remains a local, lexical/structural diagnostic rather than a trust or scientific validity judgment.
+
 ## Data binding
 
 ```python
