@@ -80,9 +80,16 @@ class EntanglementIndex:
         self.broken_refs = []
         self.aliases = {}
         self.out_links = {}
+        paths = sorted(docs_path.glob("**/*.md"))
+        root = docs_path.resolve()
+        # A symlinked .md file must not expand a bounded document scan
+        # into a read of material outside docs_dir.
+        for path in paths:
+            if not path.resolve().is_relative_to(root):
+                raise ValueError(f"Markdown input escapes docs_dir: {path}")
         contents = {
             path.relative_to(docs_path).as_posix(): path.read_text(encoding="utf-8")
-            for path in sorted(docs_path.glob("**/*.md"))
+            for path in paths
         }
         for doc_id, content in contents.items():
             self._index_document(doc_id, content)

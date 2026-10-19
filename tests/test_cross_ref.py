@@ -104,6 +104,31 @@ class TestCrossDocumentLinks(CrossRefTestCase):
         self.assertEqual(index.query_entangled("a.md#heading[0]"), [])
 
 
+class TestScanBoundary(CrossRefTestCase):
+    def test_in_root_markdown_symlink_remains_indexable(self):
+        self.write_doc("source.md", "# Shared source\n")
+        link = self.docs / "alias.md"
+        try:
+            link.symlink_to(self.docs / "source.md")
+        except (OSError, NotImplementedError) as exc:
+            self.skipTest(f"symlinks unavailable: {exc}")
+        index = self.build_index()
+        self.assertIn("alias.md", index.nodes)
+        self.assertIn("source.md", index.nodes)
+
+    def test_out_of_root_markdown_symlink_fails_closed(self):
+        with tempfile.TemporaryDirectory() as external:
+            target = Path(external) / "outside.md"
+            target.write_text("# Outside the configured scan root\\n", encoding="utf-8")
+            link = self.docs / "escape.md"
+            try:
+                link.symlink_to(target)
+            except (OSError, NotImplementedError) as exc:
+                self.skipTest(f"symlinks unavailable: {exc}")
+            with self.assertRaisesRegex(ValueError, "escapes docs_dir"):
+                self.build_index()
+
+
 class TestPersistence(CrossRefTestCase):
     def test_save_load_roundtrip_preserves_refs(self):
         self.write_doc("a.md", "See [B](b.md).\n")

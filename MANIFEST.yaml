@@ -111,6 +111,7 @@ integrated_modules:
   cross_ref:
     path: core/cross_ref.py
     scope: local_markdown_links
+    scan_boundary: markdown_symlink_targets_must_remain_within_docs_dir
     diagnostics: [near_miss, dangling, recurring_target]
   frontmatter:
     path: core/frontmatter.py

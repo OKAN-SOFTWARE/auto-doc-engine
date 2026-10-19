@@ -97,6 +97,8 @@ add / modify / delete / unchanged
 
 near-miss 只是词法提示
 
+截至 2026-10-19 的实现，`EntanglementIndex.build` 会在读取内容前解析每个被发现的 Markdown 路径，并拒绝目标解析到 `docs_dir` 外的文件，使稳定文件系统上的扫描维持配置范围。它不防护并发链接替换或 TOCTOU，也不代表索引文档、引用关系或候选建议已经通过真实性验证。
+
 `core/frontmatter.py` 提供有界科研 metadata 和声明式过程披露
 
 缺失 provider/model/version/review 信息保持 unknown / `not_declared`

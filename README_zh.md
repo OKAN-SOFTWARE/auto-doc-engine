@@ -66,7 +66,7 @@ autoDocFinding
 | `core/renderer.py` | 已实现 | Jinja2 + JSON/CSV/YAML/YML；SQLite/网络 API 未集成 |
 | `core/ast_engine.py` | 已实现 | Typed AST；规范化结构渲染，不承诺字节级 round-trip |
 | `core/incremental.py` | 已实现 | add/modify/delete/unchanged 结构证据；不是 merge engine |
-| `core/cross_ref.py` | 已实现 | 本地 Markdown 图与 dangling/near-miss 诊断 |
+| `core/cross_ref.py` | 已实现 | 本地 Markdown 图与 dangling/near-miss 诊断；拒绝解析到配置扫描根目录外的 Markdown 输入 |
 | `core/frontmatter.py` | 已实现 | 有界科研元数据 + 声明式过程披露 |
 | `core/readability.py` | 已实现 | 描述性启发式，不是写作质量或 peer-review 评分 |
 | `core/doctor.py` | 已实现 | 文档诊断 + 本地退出状态 |
@@ -77,6 +77,12 @@ autoDocFinding
 | `core/ro_crate.py` | 已实现核心 exporter | RO-Crate 1.3 JSON-LD；不声称外部 validator 成功 |
 | `core/maintenance_cadence.py` | 已实现维护扫描器 | 只读本地 Daily / Weekly / Monthly 维护证据 |
 | experimental modules | 实验性 | 有界独立模块，不接规范主链 |
+
+### 跨文档引用的扫描范围边界（2026-10-19）
+
+`EntanglementIndex.build(docs_dir)` 仅索引解析后仍位于配置 `docs_dir` 内的 Markdown 输入。若 `.md` 符号链接指向扫描根目录之外，建立索引前显式抛出 `ValueError`；根目录内的正常 Markdown 引用语义不变。针对性回归入口为 `python -m unittest tests.test_cross_ref -v`。
+
+这只是在**扫描时刻**检查文件路径边界，不构成针对并发文件系统变动、符号链接 TOCTOU、远程引用或文档语义真实性的完整安全保证。引用图仍是本地结构诊断工具，而不是科学真值判定器。
 
 ## 数据绑定
 
