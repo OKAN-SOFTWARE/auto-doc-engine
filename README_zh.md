@@ -66,7 +66,7 @@ autoDocFinding
 | `core/renderer.py` | 已实现 | Jinja2 + JSON/CSV/YAML/YML；SQLite/网络 API 未集成 |
 | `core/ast_engine.py` | 已实现 | Typed AST；规范化结构渲染，不承诺字节级 round-trip |
 | `core/incremental.py` | 已实现 | add/modify/delete/unchanged 结构证据；不是 merge engine |
-| `core/cross_ref.py` | 已实现 | 本地 Markdown 图与 dangling/near-miss 诊断 |
+| `core/cross_ref.py` | 已实现 | 本地 Markdown 图与 dangling/near-miss 诊断；拒绝解析到配置扫描根目录外的 Markdown 输入 |
 | `core/frontmatter.py` | 已实现 | 有界科研元数据 + 声明式过程披露 |
 | `core/readability.py` | 已实现 | 描述性启发式，不是写作质量或 peer-review 评分 |
 | `core/doctor.py` | 已实现 | 文档诊断 + 本地退出状态 |
