@@ -105,6 +105,17 @@ class TestCrossDocumentLinks(CrossRefTestCase):
 
 
 class TestScanBoundary(CrossRefTestCase):
+    def test_in_root_markdown_symlink_remains_indexable(self):
+        self.write_doc("source.md", "# Shared source\n")
+        link = self.docs / "alias.md"
+        try:
+            link.symlink_to(self.docs / "source.md")
+        except (OSError, NotImplementedError) as exc:
+            self.skipTest(f"symlinks unavailable: {exc}")
+        index = self.build_index()
+        self.assertIn("alias.md", index.nodes)
+        self.assertIn("source.md", index.nodes)
+
     def test_out_of_root_markdown_symlink_fails_closed(self):
         with tempfile.TemporaryDirectory() as external:
             target = Path(external) / "outside.md"
