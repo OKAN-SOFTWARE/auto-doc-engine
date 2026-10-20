@@ -184,6 +184,14 @@ The scanner does **not**:
 
 A clean maintenance report means only that the configured structural maintenance checks found no error-level finding.
 
+### Optional Tool CLI smoke workflow boundary
+
+The current repository has one deliberately introduced optional smoke workflow at `.github/workflows/tool-cli-agent-smoke.yml`, which is a Tool / CLI / Agent integration aid, not a mandatory merge gate or scientific validation
+
+The maintenance scanner's `forbidden_governance_paths` continues to cover the workflow directory, while `allowed_governance_paths` permits only that exact file, any other workflow file, including a symlink at the allowed path, remains an error-level governance finding
+
+Allowlisting a workflow path does not establish its execution, passing checks, branch protection, required review, scientific validity, or authorization to merge
+
 ## 8. Execution evidence
 
 Keep these states separate:
