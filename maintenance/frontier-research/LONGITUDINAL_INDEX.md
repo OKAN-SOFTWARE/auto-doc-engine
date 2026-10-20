@@ -6,7 +6,7 @@
 - **Specification:** `2026-09-19-first-batch`
 - **Index coverage:** `Stage A / 2024-Q1` + `Stage B / 2024-Q2` + `Stage C / 2024-Q3` + `Stage D / 2024-Q4` + `Stage E / 2025-Q1` + `Stage F / 2025-Q2` + `Stage G / 2025-Q3` + `Stage H / 2025-Q4`
 - **Stage registry / identity updated:** `2026-10-04`
-- **Current maintenance relation through:** `2026-10-19`
+- **Current maintenance relation through:** `2026-10-20` (documentary no-new-Stage-source check)
 
 ## 1. Purpose and boundary
 
@@ -7092,3 +7092,14 @@ This is a **later dated registry observation**; all earlier A2 `STAGE_I_NOT_EVID
 - [2024–2026 YTD cross-year bridge](longitudinal/LONGITUDINAL_SYNTHESIS_2024_TO_2026_YTD_2026-10-19.md) — historical analyses preserved, incompatible methods disclosed.
 - [Reconciliation of earlier Stage-I absence](corrections/RECONCILIATION_2026-10-19_STAGE_I_TO_L.md) — correction forward, no rewrite of A2 as-of evidence.
 - No native benchmark execution, code change, conformance proof, independent scientific validation or CI completion is asserted by these research files.
+
+
+## A2 current relation — 2026-10-20 post-ten-A1 main
+
+- Exact current main after all A1 merges `c3b720cc67f4de5ed199e7700bf35f0d9a94cfe9`, prior full Stage A–L custody `maintenance/frontier-research/annotations/2026-10-20_A1_STAGE_SOURCE_CUSTODY.md` blob `8af865b0753a6adf5b5d25d6977ad6dcaa1e8453`
+- Source comparison `maintenance/frontier-research/annotations/2026-10-20_A2_STAGE_CURRENT_RELATION.md`: 150 Stage A–L object SHA compared, 0 divergent, no new primary selected Stage L source on Oct20 found in current tree
+- Original Stage L month `maintenance/frontier-research/stage-l-2026-q4/MONTH_2026_10_RECONSTRUCTION.md` retains publisher-bounded source window through 2026-10-19, not shifted to 20 without fresh publisher evidence
+- N-day maintenance cutoff means source objects rechecked against latest main, not a new Pandoc 3.12.1/uv 0.13.0 release or a native execution claim
+- No old Stage docs, dated research or source registry rewritten, no new independent validation credit, month/quarter remain OPEN as applicable
+- Project full CLI/native tests and publisher source refresh NOT_EXECUTED by this A2
+- Result: A2_150_INHERITED_ZERO_DRIFT / NO_N_DAY_STAGE_SOURCE_OBSERVED / NO_RESEARCH_CREDIT
