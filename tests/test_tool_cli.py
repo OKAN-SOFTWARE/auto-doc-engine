@@ -40,6 +40,30 @@ class TestToolContract(unittest.TestCase):
         hidden = execute_tool_call(name, {"unsafe_cmd": "rm -rf /"})
         self.assertEqual(hidden["error"]["code"], "INVALID_ARGUMENT")
 
+    def test_nested_relation_preflight_fails_before_execution(self):
+        from agent_plan import run_plan
+        invalid_relations = [
+            ["not-an-object"],
+            [{"relation": "uses"}],
+            [{"relation": "uses", "target": 17}],
+            [{"relation": "unknown", "target": "docs/a.md"}],
+            [{"relation": "uses", "target": "docs/a.md", "extra": True}],
+        ]
+        for relations in invalid_relations:
+            arguments = {"artifact_record": "not-opened.json", "relations": relations}
+            with self.subTest(relations=relations):
+                direct = execute_tool_call("artifact_lineage", arguments)
+                self.assertEqual(direct["error"]["code"], "INVALID_ARGUMENT")
+                plan = {"steps": [{"tool": "artifact_lineage", "arguments": arguments}]}
+                preview = run_plan(plan)
+                self.assertEqual(preview["error"]["code"], "INVALID_PLAN")
+                self.assertFalse(preview["approval_granted"])
+        valid = {"steps": [{"tool": "artifact_lineage", "arguments": {
+            "artifact_record": "not-opened.json",
+            "relations": [{"relation": "uses", "target": "docs/a.md"}],
+        }}]}
+        self.assertEqual(run_plan(valid)["status"], "approval_required")
+
     def test_cli_registry_machine_json_and_offline_html(self):
         proc = subprocess.run(
             [sys.executable, str(ROOT / "tool_cli.py"), "list"],
