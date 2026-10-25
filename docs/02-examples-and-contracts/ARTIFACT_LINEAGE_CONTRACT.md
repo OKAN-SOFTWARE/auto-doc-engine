@@ -73,6 +73,8 @@ This check is deliberately narrow. It does **not** infer whether two different f
 
 Local target files may be hashed with SHA-256. URI/opaque references are retained without network dereference.
 
+The lineage output path must not resolve to an existing local target included in the relation list. The implementation rejects such an output before writing so the target bytes and the identity already observed for that target are preserved. This is path-collision protection, not verification of semantic equivalence or scientific validity.
+
 ```text
 local-file resolution != source credibility
 hash match != semantic equivalence
