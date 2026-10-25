@@ -167,6 +167,8 @@ Optional report output:
 python core/maintenance_cadence.py daily --as-of YYYY-MM-DD --output output/maintenance-YYYY-MM-DD.json
 ```
 
+An existing `--output` destination can be replaced only when its JSON already has this repository's `maintenance-report` profile and expected report structure. Existing configuration, Manifest, research inputs and unrelated files are rejected without mutation. A missing destination may be created. This preserves explicit report regeneration without treating arbitrary caller-selected input files as expendable report outputs.
+
 The scanner enforces repository-local path scope, configuration identity, canonical-path presence, profile/version boundaries, Manifest calibration age, optional SHA-256 baselines, optional history inventory, calendar status, and configured stage status.
 
 The scanner does **not**:
