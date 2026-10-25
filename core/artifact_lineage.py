@@ -172,8 +172,21 @@ def build_artifact_lineage(
 def write_artifact_lineage(record: dict, output: str | Path) -> Path:
     path = Path(output)
     source_path = (record.get("artifact_record") or {}).get("path")
-    if source_path and path.resolve() == Path(source_path).resolve():
+    resolved_output = path.resolve()
+    if source_path and resolved_output == Path(source_path).resolve():
         raise ValueError("lineage output must not overwrite the source artifact-record sidecar")
+
+    # Resolved local relation targets are evidence inputs already hashed in the
+    # lineage record; writing over any target would invalidate its identity.
+    for relation in record.get("relations") or []:
+        if not isinstance(relation, dict):
+            continue
+        target = relation.get("target")
+        if not isinstance(target, dict) or target.get("resolution") != "local-file":
+            continue
+        target_ref = target.get("ref")
+        if isinstance(target_ref, str) and target_ref and resolved_output == Path(target_ref).resolve():
+            raise ValueError("lineage output must not overwrite a resolved local relation target")
 
     path.parent.mkdir(parents=True, exist_ok=True)
     staged = None

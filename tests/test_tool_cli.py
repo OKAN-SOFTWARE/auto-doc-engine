@@ -149,6 +149,26 @@ class TestRepoIntegration(unittest.TestCase):
             self.assertTrue(output.is_file())
             self.assertEqual(source.read_bytes(), original)
 
+    def test_lineage_cli_never_overwrites_resolved_local_target(self):
+        with tempfile.TemporaryDirectory() as temp:
+            source = Path(temp) / "source.json"
+            target = Path(temp) / "dataset.json"
+            source.write_text(
+                json.dumps({"profile": "auto-doc-engine/artifact-record"}),
+                encoding="utf-8",
+            )
+            original = b'{"dataset": "intact"}'
+            target.write_bytes(original)
+            completed = subprocess.run(
+                [sys.executable, str(ROOT / "core" / "artifact_lineage.py"),
+                 str(source), "--relation", f"uses={target}",
+                 "--output", str(target)],
+                cwd=ROOT, capture_output=True, text=True,
+            )
+            self.assertNotEqual(completed.returncode, 0)
+            self.assertIn("resolved local relation target", completed.stderr)
+            self.assertEqual(target.read_bytes(), original)
+
     def test_handoff_cli_does_not_clobber_legacy_temp_name(self):
         with tempfile.TemporaryDirectory() as temp:
             output = Path(temp) / "handoff.json"
