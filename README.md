@@ -397,11 +397,11 @@ No direct imports are required between repositories
 
 ## Experimental modules
 
-- `template_prewarm.py` — bounded in-memory LRU
-- `async_conduit.py` — bounded priority/concurrency scheduler
-- `memory_lattice.py` — local node/link store + numeric bucket index
-- `restart_protocol.py` — event replay with result-hash verification
-- `self_observe.py` — explicit instrumentation and descriptive timing
+- `core/template_prewarm.py` — bounded in-memory LRU
+- `core/async_conduit.py` — bounded priority/concurrency scheduler
+- `core/memory_lattice.py` — local node/link store + numeric bucket index
+- `core/restart_protocol.py` — event replay with result-hash verification
+- `core/self_observe.py` — explicit instrumentation and descriptive timing
 
 Metaphorical filenames are not capability claims
 
