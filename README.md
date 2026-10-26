@@ -174,7 +174,7 @@ See [ASSERTION_BASIS_AND_COVERAGE.md](docs/02-examples-and-contracts/ASSERTION_B
 It can preserve source/derivative byte identities, bounded metadata, declared source/author refs, process disclosure, frontmatter diagnostics, lineage references, execution context, assertion basis, dimensional audit coverage, and a local R0–R3 reproducibility declaration
 
 ```bash
-python core/artifact_record.py report.md \
+python3 core/artifact_record.py report.md \
   --derivative html=output/report.html \
   --generated-with auto-doc-engine/sync \
   --configuration-ref sync/targets.yaml \
@@ -280,9 +280,9 @@ If project records are included in a crate they remain ordinary project payloads
 ## Diagnostics and SARIF
 
 ```bash
-python core/doctor.py path/to/docs
-python core/doctor.py path/to/docs --json
-python core/sarif.py path/to/docs -o output/doctor.sarif
+python3 core/doctor.py path/to/docs
+python3 core/doctor.py path/to/docs --json
+python3 core/sarif.py path/to/docs -o output/doctor.sarif
 ```
 
 Doctor reports structural/document metadata diagnostics
@@ -304,7 +304,7 @@ Environment boundary
 ## RO-Crate 1.3
 
 ```bash
-python core/ro_crate.py output report.md report.html \
+python3 core/ro_crate.py output report.md report.html \
   --name "Research artifact set" \
   --description "Rendered report and interoperable metadata" \
   --author lostlight530 \
@@ -335,9 +335,9 @@ Current-vs-historical document authority is defined in [DOCUMENT_STATUS.md](docs
 The closed August stage baseline is [STAGE_2026_08_MAINTENANCE.md](docs/03-maintenance-and-audit/history/STAGE_2026_08_MAINTENANCE.md)
 
 ```bash
-python core/maintenance_cadence.py daily
-python core/maintenance_cadence.py weekly
-python core/maintenance_cadence.py monthly --as-of 2026-08-31
+python3 core/maintenance_cadence.py daily
+python3 core/maintenance_cadence.py weekly
+python3 core/maintenance_cadence.py monthly --as-of 2026-08-31
 ```
 
 The scanner reports local structural maintenance evidence and date-derived calendar/stage status
