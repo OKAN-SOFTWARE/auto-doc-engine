@@ -113,3 +113,18 @@ Earlier index assertions `Stage I NOT_EVIDENCED` are **historical observations a
 ## Independent-path documentary check of 2026 sources (dated 2026-10-19)
 
 - [Stage I–L release identity and research-route audit](annotations/2026-10-19_STAGE_I_L_PRIMARY_RELEASE_AND_STRUCTURE_AUDIT.md) — 10/10 selected upstream tag dates, 39/39 source/aggregation routes, Q4/year OPEN, old Stage A–H unchanged **within an exact commit comparison**. This is a same-producer documentary check, not independent scientific review or runtime certification.
+
+## 2026-10-26 current independent maintenance routing
+
+The dated 2026-10-19 research and source-selection sections above remain historical as-of records; **they are not an assertion that Stage L ended on October 19**. For the latest merged October evidence custody, start with these existing owner files, not a newly invented Stage or a parallel research series:
+
+- [2026-10-26 A1 — Stage A–L exact source custody](annotations/2026-10-26_A1_STAGE_SOURCE_CUSTODY.md) (merged [PR #173](https://github.com/lostlight530/auto-doc-engine/pull/173)): **October 1–25** source/object inventory and inherited evidence boundaries.
+- [2026-10-26 A2 — Stage month/source/runtime relation](annotations/2026-10-26_A2_STAGE_MONTH_RELATION.md) (merged [PR #174](https://github.com/lostlight530/auto-doc-engine/pull/174)): **October 1–26**, after the ten-repository A1 merge barrier, including current source changes and explicit non-execution.
+
+- The October calendar window and **Stage L / 2026-Q4 remain OPEN** on October 26. Stage transitions are trigger-/quarter-governed; do not create a daily Stage M or falsely seal the month.
+- Original Stage research is attributed to its actual producer (Web GPT); Independent GPT A1/A2 are subsequent custody/relation layers, not native Stage reruns or independent scientific reproduction.
+- `Git path exists` / `blob SHA matches` / `PR merged` / `checks ran` / `research claim validated` are different evidence predicates. The two linked maintenance records explicitly do **not** claim tests or scientific benchmark replay.
+- Before a same-date maintenance write, inspect fresh `main`, open PRs and the exact owner path. If another agent has already merged the owner, verify it and report `NO_CHANGE_REQUIRED` instead of creating duplicate PRs; if a draft overlaps, coordinate before writing.
+- Preserve October 19 source/review claims and older Stage artifacts as dated history. Any newly proven contradiction requires a forward correction with a source and a logical timestamp, never a retroactive author or quarter rewrite.
+
+**Scope of this README update:** current navigation and collision-safe recovery only; no code, template, source register, stage synthesis, or underlying research result is changed.
